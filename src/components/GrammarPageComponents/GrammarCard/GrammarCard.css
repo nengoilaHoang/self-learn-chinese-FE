@@ -1,0 +1,74 @@
+/* =========================================================
+   Component: GrammarCard
+   Style: Modern Chinoiserie
+   ========================================================= */
+
+.GrammarCard-container {
+  background-color: #FFFFFF;
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-soft-red);
+  border: 1px solid transparent; 
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 140px; /* Giữ một chiều cao tối thiểu để thẻ không bị quá dẹp */
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Hiệu ứng khi hover */
+.GrammarCard-container:hover {
+  transform: translateY(-5px);
+  border: var(--border-gold);
+  box-shadow: var(--shadow-glow-gold);
+}
+
+/* Họa tiết góc (Lần này dùng màu vàng gold ở góc dưới) */
+.GrammarCard-container::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(315deg, transparent 50%, var(--accent-gold) 50%);
+  opacity: 0.1;
+  transition: opacity 0.3s ease;
+}
+
+.GrammarCard-container:hover::before {
+  opacity: 0.8;
+}
+
+/* Tiêu đề ngữ pháp */
+.GrammarCard-title {
+  font-size: 1.4rem;
+  margin: 0 0 16px 0;
+  text-align: center;
+}
+
+/* Khu vực nút xem chi tiết */
+.GrammarCard-action {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--primary-red);
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  gap: 8px;
+}
+
+.GrammarCard-arrow {
+  font-size: 1.2rem;
+  transition: transform 0.3s ease;
+}
+
+.GrammarCard-container:hover .GrammarCard-arrow {
+  transform: translateX(6px);
+}

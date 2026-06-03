@@ -1,0 +1,55 @@
+/* =========================================================
+   Component: HomePage
+   Style: Modern Chinoiserie
+   ========================================================= */
+
+.HomePage-container {
+  /* Khung bao ngoài cùng, tận dụng tối đa khoảng trống được cấp bởi MainLayout */
+  width: 100%;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+/* Hiệu ứng mờ dần khi chuyển trang */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Phần Tiêu đề của trang */
+.HomePage-header {
+  margin-bottom: 32px;
+  text-align: left;
+}
+
+.HomePage-title {
+  font-size: 2rem;
+  margin-bottom: 8px;
+  position: relative;
+  display: inline-block;
+}
+
+/* Đường gạch đứt chân dưới tiêu đề (Tạo điểm nhấn) */
+.HomePage-title::after {
+  content: "";
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 40%;
+  height: 2px;
+  background-color: var(--accent-gold);
+}
+
+.HomePage-subtitle {
+  font-size: 1rem;
+  color: var(--text-ink);
+  opacity: 0.7;
+}
+
+/* Bố cục dạng Lưới (Grid Layout) 
+  Giải thích: Tự động lấp đầy (auto-fill), mỗi cột tối thiểu 280px, tối đa 1 phần (1fr).
+*/
+.HomePage-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 24px; /* Khoảng cách giữa các CourseCard */
+}

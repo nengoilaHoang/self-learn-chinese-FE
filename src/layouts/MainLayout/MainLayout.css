@@ -1,0 +1,75 @@
+/* =========================================================
+   Component: MainLayout
+   Style: Modern Chinoiserie
+   ========================================================= */
+
+.MainLayout-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Thanh điều hướng (Navigation Bar) */
+.MainLayout-navbar {
+  /* Kỹ thuật dính chặt lên trên cùng khi cuộn (Sticky) */
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  
+  /* Style nền và viền chuẩn Chinoiserie */
+  background-color: #FFFFFF; /* Dùng nền trắng để nổi bật trên nền giấy xuyến chỉ của body */
+  border-bottom: var(--border-gold);
+  box-shadow: var(--shadow-soft-red);
+  padding: 12px 24px;
+  
+  display: flex;
+  justify-content: center;
+}
+
+.MainLayout-navInner {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  max-width: 1200px;
+  width: 100%;
+}
+
+/* Nút bấm trên thanh điều hướng */
+.MainLayout-navLink {
+  text-decoration: none;
+  color: var(--text-ink);
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 8px 20px;
+  border-radius: var(--radius-button);
+  border: 1px solid transparent; /* Giữ sẵn khung viền để không bị giật layout khi hover */
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+/* Hiệu ứng khi lướt chuột (Hover) hoặc đang ở trang đó (Active) */
+.MainLayout-navLink:hover,
+.MainLayout-navLink.active {
+  color: var(--primary-red);
+  background-color: var(--bg-cream);
+  border: 1px solid var(--accent-gold); /* Hiện viền vàng */
+}
+
+/* Logo ở nút Home */
+.MainLayout-logo {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+/* Khu vực hiển thị nội dung động (Outlet) */
+.MainLayout-content {
+  flex: 1; /* Chiếm phần không gian còn lại */
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 32px 24px;
+}

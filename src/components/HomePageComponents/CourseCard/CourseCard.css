@@ -1,0 +1,89 @@
+/* =========================================================
+   Component: CourseCard
+   Style: Modern Chinoiserie
+   ========================================================= */
+
+.CourseCard-container {
+  background-color: #FFFFFF;
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-soft-red);
+  border: 1px solid transparent; /* Viền trong suốt để không bị giật khi hover hiện viền vàng */
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Hiệu ứng khi lướt chuột vào (Hover) */
+.CourseCard-container:hover {
+  transform: translateY(-5px); /* Nhấc thẻ lên 5px */
+  border: var(--border-gold);
+  box-shadow: var(--shadow-glow-gold);
+}
+
+/* Họa tiết gấp khúc mờ ở góc trên bên phải (Tạo chất cổ phong) */
+.CourseCard-container::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(135deg, transparent 50%, var(--primary-red) 50%);
+  opacity: 0.1;
+  transition: opacity 0.3s ease;
+}
+
+.CourseCard-container:hover::before {
+  opacity: 0.8;
+}
+
+/* Tiêu đề khóa học (VD: HSK 1) */
+.CourseCard-title {
+  font-size: 1.75rem;
+  margin: 0 0 8px 0;
+}
+
+/* Nét gạch vàng nhỏ phân cách */
+.CourseCard-divider {
+  width: 32px;
+  height: 2px;
+  background-color: var(--accent-gold);
+  margin-bottom: 12px;
+}
+
+/* Thông tin số bài học */
+.CourseCard-lessonCount {
+  font-size: 0.95rem;
+  color: var(--text-ink);
+  opacity: 0.8;
+  font-weight: 500;
+  margin: 0;
+}
+
+/* Khu vực nút bấm hoặc mũi tên điều hướng phía dưới */
+.CourseCard-action {
+  margin-top: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--primary-red);
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.CourseCard-arrow {
+  font-size: 1.2rem;
+  transition: transform 0.3s ease;
+}
+
+/* Mũi tên trượt sang phải khi hover */
+.CourseCard-container:hover .CourseCard-arrow {
+  transform: translateX(6px);
+}

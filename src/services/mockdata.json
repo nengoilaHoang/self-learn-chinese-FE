@@ -1,0 +1,748 @@
+{
+  "courses": [
+    {
+      "id": "c1",
+      "Name": "HSK 1",
+      "NumberOfLesson": 15,
+      "lessons": [
+        {
+          "id": "l1",
+          "name": "Bài 1: Xin chào",
+          "words": [
+            {
+              "id": "w1",
+              "hanzi": "你好",
+              "pinyin": "nǐ hǎo",
+              "sinoVietnamese": "Nễ hảo",
+              "vietnamese": "Xin chào"
+            },
+            {
+              "id": "w2",
+              "hanzi": "谢谢",
+              "pinyin": "xiè xie",
+              "sinoVietnamese": "Tạ tạ",
+              "vietnamese": "Cảm ơn"
+            },
+            {
+              "id": "w3",
+              "hanzi": "学习",
+              "pinyin": "xué xí",
+              "sinoVietnamese": "Học tập",
+              "vietnamese": "Học, học tập"
+            }
+          ],
+          "grammars": [
+            {
+              "id": "g1",
+              "title": "Cấu trúc câu chào hỏi cơ bản",
+              "htmlContent": "<h3>1. Cấu trúc câu chào hỏi cơ bản</h3><p>Trong tiếng Trung, để chào một người, ta dùng đại từ nhân xưng kết hợp với chữ <strong>好 (hǎo)</strong>.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 你好 (Nǐ hǎo): Chào bạn.<br/>- 老师好 (Lǎoshī hǎo): Chào thầy/cô.</div>"
+            },
+            {
+              "id": "g2",
+              "title": "Trật tự từ trong câu",
+              "htmlContent": "<h3>2. Trật tự từ trong câu (S + V + O)</h3><p>Tiếng Trung có cấu trúc câu cơ bản khá giống tiếng Việt: <strong>Chủ ngữ + Động từ + Tân ngữ</strong>.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我学习汉语。(Wǒ xuéxí hànyǔ) - Tôi học tiếng Trung.</div>"
+            }
+          ]
+        },
+        {
+          "id": "l2",
+          "name": "Bài 2: Bạn tên là gì?",
+          "words": [
+            {
+              "id": "w4",
+              "hanzi": "叫",
+              "pinyin": "jiào",
+              "sinoVietnamese": "Khiếu",
+              "vietnamese": "Gọi, tên là"
+            },
+            {
+              "id": "w5",
+              "hanzi": "名字",
+              "pinyin": "míng zi",
+              "sinoVietnamese": "Danh tự",
+              "vietnamese": "Tên"
+            }
+          ],
+          "grammars": [
+            {
+              "id": "g3",
+              "title": "Đại từ nghi vấn 什么",
+              "htmlContent": "<h3>1. Đại từ nghi vấn 什么 (shén me)</h3><p>Dùng để hỏi về sự vật, sự việc (Cái gì, gì).</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 你叫什么名字？ (Nǐ jiào shén me míng zi?) - Bạn tên là gì?</div>"
+            }
+          ]
+        },
+        {
+          "id": "l5",
+          "name": "Bài 5: Gia đình bạn có mấy người?",
+          "words": [
+            { "id": "w501", "hanzi": "一", "pinyin": "yī", "sinoVietnamese": "Nhất", "vietnamese": "Số 1" },
+            { "id": "w502", "hanzi": "二", "pinyin": "èr", "sinoVietnamese": "Nhị", "vietnamese": "Số 2" },
+            { "id": "w503", "hanzi": "三", "pinyin": "sān", "sinoVietnamese": "Tam", "vietnamese": "Số 3" },
+            { "id": "w504", "hanzi": "四", "pinyin": "sì", "sinoVietnamese": "Tứ", "vietnamese": "Số 4" },
+            { "id": "w505", "hanzi": "五", "pinyin": "wǔ", "sinoVietnamese": "Ngũ", "vietnamese": "Số 5" },
+            { "id": "w506", "hanzi": "六", "pinyin": "liù", "sinoVietnamese": "Lục", "vietnamese": "Số 6" },
+            { "id": "w507", "hanzi": "七", "pinyin": "qī", "sinoVietnamese": "Thất", "vietnamese": "Số 7" },
+            { "id": "w508", "hanzi": "八", "pinyin": "bā", "sinoVietnamese": "Bát", "vietnamese": "Số 8" },
+            { "id": "w509", "hanzi": "九", "pinyin": "jiǔ", "sinoVietnamese": "Cửu", "vietnamese": "Số 9" },
+            { "id": "w510", "hanzi": "十", "pinyin": "shí", "sinoVietnamese": "Thập", "vietnamese": "Số 10" },
+            { "id": "w511", "hanzi": "爷爷", "pinyin": "yé ye", "sinoVietnamese": "Gia gia", "vietnamese": "Ông nội" },
+            { "id": "w512", "hanzi": "奶奶", "pinyin": "nǎi nai", "sinoVietnamese": "Nãi nãi", "vietnamese": "Bà nội" },
+            { "id": "w513", "hanzi": "爸爸", "pinyin": "bà ba", "sinoVietnamese": "Ba ba", "vietnamese": "Bố, ba" },
+            { "id": "w514", "hanzi": "妈妈", "pinyin": "mā ma", "sinoVietnamese": "Ma ma", "vietnamese": "Mẹ, má" },
+            { "id": "w515", "hanzi": "哥哥", "pinyin": "gē ge", "sinoVietnamese": "Ca ca", "vietnamese": "Anh trai" },
+            { "id": "w516", "hanzi": "姐姐", "pinyin": "jiě jie", "sinoVietnamese": "Tỷ tỷ", "vietnamese": "Chị gái" },
+            { "id": "w517", "hanzi": "弟弟", "pinyin": "dì di", "sinoVietnamese": "Đệ đệ", "vietnamese": "Em trai" },
+            { "id": "w518", "hanzi": "妹妹", "pinyin": "mèi mei", "sinoVietnamese": "Muội muội", "vietnamese": "Em gái" },
+            { "id": "w519", "hanzi": "有", "pinyin": "yǒu", "sinoVietnamese": "Hữu", "vietnamese": "Có" },
+            { "id": "w520", "hanzi": "没有", "pinyin": "méi yǒu", "sinoVietnamese": "Một hữu", "vietnamese": "Không có" },
+            { "id": "w521", "hanzi": "今年", "pinyin": "jīn nián", "sinoVietnamese": "Kim niên", "vietnamese": "Năm nay" },
+            { "id": "w522", "hanzi": "去年", "pinyin": "qù nián", "sinoVietnamese": "Khứ niên", "vietnamese": "Năm ngoái" },
+            { "id": "w523", "hanzi": "明年", "pinyin": "míng nián", "sinoVietnamese": "Minh niên", "vietnamese": "Năm sau" },
+            { "id": "w524", "hanzi": "几", "pinyin": "jǐ", "sinoVietnamese": "Kỉ", "vietnamese": "Mấy (Dưới 10)" },
+            { "id": "w525", "hanzi": "岁", "pinyin": "suì", "sinoVietnamese": "Tuế", "vietnamese": "Tuổi" },
+            { "id": "w526", "hanzi": "叫", "pinyin": "jiào", "sinoVietnamese": "Khiếu", "vietnamese": "Tên là, gọi" },
+            { "id": "w527", "hanzi": "多", "pinyin": "duō", "sinoVietnamese": "Đa", "vietnamese": "Nhiều, bao nhiêu" },
+            { "id": "w528", "hanzi": "少", "pinyin": "shǎo", "sinoVietnamese": "Thiểu", "vietnamese": "Ít" },
+            { "id": "w529", "hanzi": "大", "pinyin": "dà", "sinoVietnamese": "Đại", "vietnamese": "Lớn" },
+            { "id": "w530", "hanzi": "年纪", "pinyin": "nián jì", "sinoVietnamese": "Niên kỉ", "vietnamese": "Tuổi tác" },
+            { "id": "w531", "hanzi": "口", "pinyin": "kǒu", "sinoVietnamese": "Khẩu", "vietnamese": "Lượng từ (cho người trong gia đình)" },
+            { "id": "w532", "hanzi": "个", "pinyin": "gè", "sinoVietnamese": "Cá", "vietnamese": "Lượng từ (cái, con, người)" },
+            { "id": "w533", "hanzi": "了", "pinyin": "le", "sinoVietnamese": "Liễu", "vietnamese": "Rồi (Trợ từ)" }
+          ],
+          "grammars": [
+            {
+              "id": "g51",
+              "title": "Hỏi số lượng với 几",
+              "htmlContent": "<h3>1. Cấu trúc hỏi số lượng</h3><p>Công thức: <strong>几 (Mấy) + Lượng từ + Danh từ?</strong></p><p><em>Lưu ý:</em> Từ \"几\" thường dùng khi ước tính số lượng nhỏ hơn 10.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 你家有几口人? (Nǐ jiā yǒu jǐ kǒu rén?) - Nhà bạn có mấy người?</div>"
+            },
+            {
+              "id": "g52",
+              "title": "Các cách hỏi tuổi",
+              "htmlContent": "<h3>2. Cách hỏi tuổi theo đối tượng</h3><p>Tùy thuộc vào độ tuổi và vai vế của người đối diện, tiếng Trung có 3 cách hỏi tuổi khác nhau:</p><div class=\"example\">- <strong>Trẻ em (< 10 tuổi):</strong> 几岁了? (Jǐ suì le?)<br/>- <strong>Người bằng lứa / Trẻ tuổi:</strong> 多大了? (Duō dà le?)<br/>- <strong>Người lớn tuổi / Cần sự kính trọng:</strong> 多大年纪了? (Duō dà nián jì le?)</div>"
+            },
+            {
+              "id": "g53",
+              "title": "Phân biệt lượng từ 口 và 个",
+              "htmlContent": "<h3>3. Phân biệt 口 (kǒu) và 个 (gè)</h3><p>Cả hai đều có thể dùng làm lượng từ cho người, nhưng cách dùng khác nhau:</p><div class=\"example\">- <strong>口 (kǒu)</strong>: Chỉ dùng khi hỏi hoặc nói về <em>tổng số thành viên</em> trong một gia đình (giống như \"nhà có mấy miệng ăn\").<br/>- <strong>个 (gè)</strong>: Là lượng từ phổ biến nhất, dùng cho người nói chung hoặc khi nhắc đến từng cá nhân cụ thể.</div>"
+            },
+            {
+              "id": "g54",
+              "title": "Trợ từ 了",
+              "htmlContent": "<h3>4. Cách dùng trợ từ 了 (le)</h3><p>Đặt <strong>了</strong> ở cuối câu để chỉ một trạng thái đã thay đổi hoặc một hành động đã xảy ra (thường dịch là \"rồi\").</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我二十岁了。(Wǒ èr shí suì le) - Tôi 20 tuổi rồi. (Ý chỉ sự thay đổi tuổi tác từ 19 sang 20).</div>"
+            }
+          ]
+        },
+        {
+          "id": "l6",
+          "name": "Bài 6: Tôi biết nói tiếng Hán",
+          "words": [
+            {
+              "id": "w601",
+              "hanzi": "听",
+              "pinyin": "tīng",
+              "sinoVietnamese": "Thính",
+              "vietnamese": "Nghe"
+            },
+            {
+              "id": "w602",
+              "hanzi": "说",
+              "pinyin": "shuō",
+              "sinoVietnamese": "Thuyết",
+              "vietnamese": "Nói"
+            },
+            {
+              "id": "w603",
+              "hanzi": "读",
+              "pinyin": "dú",
+              "sinoVietnamese": "Độc",
+              "vietnamese": "Đọc"
+            },
+            {
+              "id": "w604",
+              "hanzi": "写",
+              "pinyin": "xiě",
+              "sinoVietnamese": "Tả",
+              "vietnamese": "Viết"
+            },
+            {
+              "id": "w605",
+              "hanzi": "买",
+              "pinyin": "mǎi",
+              "sinoVietnamese": "Mãi",
+              "vietnamese": "Mua"
+            },
+            {
+              "id": "w606",
+              "hanzi": "卖",
+              "pinyin": "mài",
+              "sinoVietnamese": "Mại",
+              "vietnamese": "Bán"
+            },
+            {
+              "id": "w607",
+              "hanzi": "头",
+              "pinyin": "tóu",
+              "sinoVietnamese": "Đầu",
+              "vietnamese": "Đầu"
+            },
+            {
+              "id": "w608",
+              "hanzi": "汉语",
+              "pinyin": "hàn yǔ",
+              "sinoVietnamese": "Hán ngữ",
+              "vietnamese": "Tiếng Hán"
+            },
+            {
+              "id": "w609",
+              "hanzi": "中文",
+              "pinyin": "zhōng wén",
+              "sinoVietnamese": "Trung văn",
+              "vietnamese": "Tiếng Trung"
+            },
+            {
+              "id": "w610",
+              "hanzi": "汉字",
+              "pinyin": "hàn zì",
+              "sinoVietnamese": "Hán tự",
+              "vietnamese": "Chữ Hán"
+            },
+            {
+              "id": "w611",
+              "hanzi": "字",
+              "pinyin": "zì",
+              "sinoVietnamese": "Tự",
+              "vietnamese": "Chữ"
+            },
+            {
+              "id": "w612",
+              "hanzi": "文字",
+              "pinyin": "wén zì",
+              "sinoVietnamese": "Văn tự",
+              "vietnamese": "Chữ viết, văn tự"
+            },
+            {
+              "id": "w613",
+              "hanzi": "会",
+              "pinyin": "huì",
+              "sinoVietnamese": "Hội",
+              "vietnamese": "Biết (thông qua học tập)"
+            },
+            {
+              "id": "w614",
+              "hanzi": "云",
+              "pinyin": "yún",
+              "sinoVietnamese": "Vân",
+              "vietnamese": "Mây"
+            },
+            {
+              "id": "w615",
+              "hanzi": "菜",
+              "pinyin": "cài",
+              "sinoVietnamese": "Thái",
+              "vietnamese": "Món ăn, rau"
+            },
+            {
+              "id": "w616",
+              "hanzi": "喜欢",
+              "pinyin": "xǐ huan",
+              "sinoVietnamese": "Hỉ hoan",
+              "vietnamese": "Thích"
+            },
+            {
+              "id": "w617",
+              "hanzi": "做",
+              "pinyin": "zuò",
+              "sinoVietnamese": "Tố",
+              "vietnamese": "Làm"
+            },
+            {
+              "id": "w618",
+              "hanzi": "家常菜",
+              "pinyin": "jiā cháng cài",
+              "sinoVietnamese": "Gia thường thái",
+              "vietnamese": "Món ăn gia đình"
+            },
+            {
+              "id": "w619",
+              "hanzi": "好吃",
+              "pinyin": "hǎo chī",
+              "sinoVietnamese": "Hảo cật",
+              "vietnamese": "Ngon"
+            },
+            {
+              "id": "w620",
+              "hanzi": "很",
+              "pinyin": "hěn",
+              "sinoVietnamese": "Khẩn",
+              "vietnamese": "Rất"
+            }
+          ],
+          "grammars": [
+            {
+              "id": "g61",
+              "title": "Đại từ chỉ thị 这 / 那",
+              "htmlContent": "<h3>1. Cấu trúc: 这 (cái này) / 那 (cái kia) + Lượng từ + Danh từ</h3><p>Dùng để chỉ đích danh một người hoặc một sự vật cụ thể nào đó. <strong>Lưu ý:</strong> Bắt buộc phải có Lượng từ (个, 本...) đứng ở giữa đại từ chỉ thị và danh từ.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 这个汉字 (zhè ge hàn zì): Chữ Hán này.<br/>- 那个人 (nà ge rén): Người kia.</div>"
+            },
+            {
+              "id": "g62",
+              "title": "Đại từ nghi vấn 怎么",
+              "htmlContent": "<h3>2. Cấu trúc: 怎么 + Động từ (V)</h3><p>Dùng để hỏi về phương thức, cách thức tiến hành của một hành động (Làm việc gì đó như thế nào?).</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 怎么读？ (zěn me dú): Đọc như thế nào?<br/>- 这个菜怎么做？ (zhè ge cài zěn me zuò): Món ăn này làm thế nào?</div>"
+            },
+            {
+              "id": "g63",
+              "title": "So sánh 汉语 và 中文",
+              "htmlContent": "<h3>3. Phân biệt 汉语 (Hànyǔ) và 中文 (Zhōngwén)</h3><p>Cả hai đều có nghĩa là Tiếng Trung, nhưng phạm vi sử dụng có chút khác biệt:</p><div class=\"example\">- <strong>汉语 (Hán ngữ)</strong>: Thường chỉ ngôn ngữ nói chung, đặc biệt nhấn mạnh vào <em>khẩu ngữ (nghe, nói)</em>.<br/>- <strong>中文 (Trung văn)</strong>: Nhấn mạnh vào <em>văn tự, chữ viết (đọc, viết)</em> hoặc ngành học thuật.</div>"
+            },
+            {
+              "id": "g64",
+              "title": "Nhận diện mặt chữ Hán dễ nhầm lẫn",
+              "htmlContent": "<h3>4. Các chữ Hán có nét tương đồng</h3><p>Cần chú ý kĩ các nét để tránh viết sai hoặc đọc nhầm các chữ sau:</p><div class=\"example\">- <strong>读 (dú - Đọc)</strong>: Có bộ Ngôn (讠) bên trái.<br/>- <strong>买 (mǎi - Mua)</strong>: Thiếu bộ Thập (十) ở trên đầu so với chữ Mại (Bán).<br/>- <strong>卖 (mài - Bán)</strong>: Có bộ Thập (十) ở trên đầu (Nhớ mẹo: Có đồ đặt lên đầu để đem đi bán).<br/>- <strong>头 (tóu - Đầu)</strong>: Hai nét chấm (丷) thay vì nét ngang.</div>"
+            }
+          ]
+        },
+        {
+          "id": "l7",
+          "name": "Bài 7: Hôm nay là ngày mấy?",
+          "words": [
+            {
+              "id": "w701",
+              "hanzi": "两",
+              "pinyin": "liǎng",
+              "sinoVietnamese": "Lưỡng",
+              "vietnamese": "Hai (Dùng khi đếm số lượng)"
+            },
+            {
+              "id": "w702",
+              "hanzi": "但是",
+              "pinyin": "dàn shì",
+              "sinoVietnamese": "Đãn thị",
+              "vietnamese": "Nhưng, nhưng mà"
+            },
+            {
+              "id": "w703",
+              "hanzi": "难",
+              "pinyin": "nán",
+              "sinoVietnamese": "Nan",
+              "vietnamese": "Khó"
+            },
+            {
+              "id": "w704",
+              "hanzi": "那",
+              "pinyin": "nà",
+              "sinoVietnamese": "Na",
+              "vietnamese": "Kia, đó"
+            },
+            {
+              "id": "w705",
+              "hanzi": "问",
+              "pinyin": "wèn",
+              "sinoVietnamese": "Vấn",
+              "vietnamese": "Hỏi"
+            },
+            {
+              "id": "w706",
+              "hanzi": "爱",
+              "pinyin": "ài",
+              "sinoVietnamese": "Ái",
+              "vietnamese": "Yêu"
+            },
+            {
+              "id": "w707",
+              "hanzi": "喜欢",
+              "pinyin": "xǐ huan",
+              "sinoVietnamese": "Hỉ hoan",
+              "vietnamese": "Thích"
+            },
+            {
+              "id": "w708",
+              "hanzi": "请",
+              "pinyin": "qǐng",
+              "sinoVietnamese": "Thỉnh",
+              "vietnamese": "Xin mời, xin vui lòng"
+            },
+            {
+              "id": "w709",
+              "hanzi": "好的",
+              "pinyin": "hǎo de",
+              "sinoVietnamese": "Hảo đích",
+              "vietnamese": "Được, vâng, ok"
+            },
+            {
+              "id": "w710",
+              "hanzi": "号",
+              "pinyin": "hào",
+              "sinoVietnamese": "Hiệu",
+              "vietnamese": "Ngày (trong tháng), số"
+            },
+            {
+              "id": "w711",
+              "hanzi": "今天",
+              "pinyin": "jīn tiān",
+              "sinoVietnamese": "Kim thiên",
+              "vietnamese": "Hôm nay"
+            },
+            {
+              "id": "w712",
+              "hanzi": "昨天",
+              "pinyin": "zuó tiān",
+              "sinoVietnamese": "Tạc thiên",
+              "vietnamese": "Hôm qua"
+            },
+            {
+              "id": "w713",
+              "hanzi": "明天",
+              "pinyin": "míng tiān",
+              "sinoVietnamese": "Minh thiên",
+              "vietnamese": "Ngày mai"
+            },
+            {
+              "id": "w714",
+              "hanzi": "月",
+              "pinyin": "yuè",
+              "sinoVietnamese": "Nguyệt",
+              "vietnamese": "Tháng"
+            },
+            {
+              "id": "w715",
+              "hanzi": "星期",
+              "pinyin": "xīng qī",
+              "sinoVietnamese": "Tinh kỳ",
+              "vietnamese": "Tuần, thứ"
+            },
+            {
+              "id": "w716",
+              "hanzi": "星期日",
+              "pinyin": "xīng qī rì",
+              "sinoVietnamese": "Tinh kỳ nhật",
+              "vietnamese": "Chủ nhật"
+            },
+            {
+              "id": "w717",
+              "hanzi": "周日",
+              "pinyin": "zhōu rì",
+              "sinoVietnamese": "Chu nhật",
+              "vietnamese": "Chủ nhật (Khẩu ngữ)"
+            },
+            {
+              "id": "w718",
+              "hanzi": "礼拜天",
+              "pinyin": "lǐ bài tiān",
+              "sinoVietnamese": "Lễ bái thiên",
+              "vietnamese": "Chủ nhật (Dùng nhiều ở khẩu ngữ miền Nam)"
+            },
+            {
+              "id": "w719",
+              "hanzi": "生日",
+              "pinyin": "shēng rì",
+              "sinoVietnamese": "Sinh nhật",
+              "vietnamese": "Sinh nhật"
+            },
+            {
+              "id": "w720",
+              "hanzi": "过",
+              "pinyin": "guò",
+              "sinoVietnamese": "Quá",
+              "vietnamese": "Đón, trải qua (VD: Đón sinh nhật)"
+            },
+            {
+              "id": "w721",
+              "hanzi": "去",
+              "pinyin": "qù",
+              "sinoVietnamese": "Khứ",
+              "vietnamese": "Đi"
+            },
+            {
+              "id": "w722",
+              "hanzi": "学校",
+              "pinyin": "xué xiào",
+              "sinoVietnamese": "Học hiệu",
+              "vietnamese": "Trường học"
+            }
+          ],
+          "grammars": [
+            {
+              "id": "g71",
+              "title": "Cấu trúc 的 rút gọn (Khuyết danh từ)",
+              "htmlContent": "<h3>1. Cấu trúc 的 rút gọn</h3><p>Khi danh từ đã xuất hiện ở đầu câu hoặc trong ngữ cảnh đã rõ ràng, ta có thể dừng ở chữ <strong>的</strong> để tránh lặp lại từ đó, tạo sự tự nhiên cho câu.</p><div class=\"example\"><strong>Công thức:</strong> Đối tượng + 是 + [Ai / Hành động] + 的 (吗)？<br/><br/><strong>Ví dụ:</strong><br/>- 那个汉字是你写的吗？ (Nà ge hàn zì shì nǐ xiě de ma?)<br/><em>Chữ Hán đó là [chữ] bạn viết phải không? — Ẩn chữ \"chữ Hán\" ở cuối.</em></div>"
+            },
+            {
+              "id": "g72",
+              "title": "Cách hỏi và nói ngày tháng",
+              "htmlContent": "<h3>2. Cách hỏi ngày tháng</h3><p>Tiếng Trung tuân thủ nguyên tắc từ lớn đến bé, nên khi nói ngày tháng sẽ theo thứ tự: <strong>Tháng -> Ngày -> Thứ</strong>.</p><div class=\"example\"><strong>Công thức hỏi:</strong> 几月 + 几号 + 星期几？<br/><br/><strong>Ví dụ:</strong><br/>- 今天几月几号星期几？ (Jīn tiān jǐ yuè jǐ hào xīng qī jǐ?)<br/><em>Hôm nay là thứ mấy ngày mấy tháng mấy?</em><br/>- 今天是五月二十八号，星期四。(Jīn tiān shì wǔ yuè èr shí bā hào, xīng qī sì)<br/><em>Hôm nay là thứ Năm, ngày 28 tháng 5.</em></div>"
+            },
+            {
+              "id": "g73",
+              "title": "Câu liên động (Đi đâu làm gì)",
+              "htmlContent": "<h3>3. Câu liên động</h3><p>Là câu có hai động từ trở lên, trong đó hành động thứ hai là mục đích của hành động thứ nhất. Thường dùng để biểu thị \"Đi đến một nơi nào đó để làm gì\".</p><div class=\"example\"><strong>Công thức:</strong> 去 (Đi) + Địa điểm + Hành động<br/><br/><strong>Ví dụ:</strong><br/>- 我去学校学汉语。(Wǒ qù xué xiào xué hàn yǔ)<br/><em>Tôi đến trường học tiếng Trung.</em><br/>- 明天我去商店买东西。(Míng tiān wǒ qù shāng diàn mǎi dōng xi)<br/><em>Ngày mai tôi đi cửa hàng mua đồ.</em></div>"
+            }
+          ]
+        },
+        {
+          "id": "l8",
+          "name": "Bài 8: Tôi muốn uống trà",
+          "words": [
+            {
+              "id": "w801",
+              "hanzi": "茶",
+              "pinyin": "chá",
+              "sinoVietnamese": "Trà",
+              "vietnamese": "Trà"
+            },
+            {
+              "id": "w802",
+              "hanzi": "冰茶",
+              "pinyin": "bīng chá",
+              "sinoVietnamese": "Băng trà",
+              "vietnamese": "Trà đá"
+            },
+            {
+              "id": "w803",
+              "hanzi": "奶茶",
+              "pinyin": "nǎi chá",
+              "sinoVietnamese": "Nãi trà",
+              "vietnamese": "Trà sữa"
+            },
+            {
+              "id": "w804",
+              "hanzi": "可乐",
+              "pinyin": "kě lè",
+              "sinoVietnamese": "Khả lạc",
+              "vietnamese": "Nước ngọt / Cola"
+            },
+            {
+              "id": "w805",
+              "hanzi": "咖啡",
+              "pinyin": "kā fēi",
+              "sinoVietnamese": "Ca phê",
+              "vietnamese": "Cà phê"
+            },
+            {
+              "id": "w806",
+              "hanzi": "啤酒",
+              "pinyin": "pí jiǔ",
+              "sinoVietnamese": "Tì tửu",
+              "vietnamese": "Bia"
+            },
+            {
+              "id": "w807",
+              "hanzi": "牛奶",
+              "pinyin": "niú nǎi",
+              "sinoVietnamese": "Ngưu nãi",
+              "vietnamese": "Sữa bò"
+            },
+            {
+              "id": "w808",
+              "hanzi": "酒",
+              "pinyin": "jiǔ",
+              "sinoVietnamese": "Tửu",
+              "vietnamese": "Rượu"
+            },
+            {
+              "id": "w809",
+              "hanzi": "白水",
+              "pinyin": "bái shuǐ",
+              "sinoVietnamese": "Bạch thủy",
+              "vietnamese": "Nước lọc"
+            },
+            {
+              "id": "w810",
+              "hanzi": "果汁",
+              "pinyin": "guǒ zhī",
+              "sinoVietnamese": "Quả trấp",
+              "vietnamese": "Nước ép trái cây"
+            },
+            {
+              "id": "w811",
+              "hanzi": "喝",
+              "pinyin": "hē",
+              "sinoVietnamese": "Hát",
+              "vietnamese": "Uống"
+            },
+            {
+              "id": "w812",
+              "hanzi": "想",
+              "pinyin": "xiǎng",
+              "sinoVietnamese": "Tưởng",
+              "vietnamese": "Muốn (nhấn mạnh suy nghĩ)"
+            },
+            {
+              "id": "w813",
+              "hanzi": "要",
+              "pinyin": "yào",
+              "sinoVietnamese": "Yếu",
+              "vietnamese": "Muốn (nhấn mạnh nhu cầu)"
+            },
+            {
+              "id": "w814",
+              "hanzi": "杯子",
+              "pinyin": "bēi zi",
+              "sinoVietnamese": "Bôi tử",
+              "vietnamese": "Ly, cốc (Danh từ)"
+            },
+            {
+              "id": "w815",
+              "hanzi": "米饭",
+              "pinyin": "mǐ fàn",
+              "sinoVietnamese": "Mễ phạn",
+              "vietnamese": "Cơm trắng"
+            },
+            {
+              "id": "w816",
+              "hanzi": "包子",
+              "pinyin": "bāo zi",
+              "sinoVietnamese": "Bao tử",
+              "vietnamese": "Bánh bao"
+            },
+            {
+              "id": "w817",
+              "hanzi": "饺子",
+              "pinyin": "jiǎo zi",
+              "sinoVietnamese": "Giảo tử",
+              "vietnamese": "Sủi cảo"
+            },
+            {
+              "id": "w818",
+              "hanzi": "面条",
+              "pinyin": "miàn tiáo",
+              "sinoVietnamese": "Diện điều",
+              "vietnamese": "Mì sợi"
+            },
+            {
+              "id": "w819",
+              "hanzi": "上午",
+              "pinyin": "shàng wǔ",
+              "sinoVietnamese": "Thượng ngọ",
+              "vietnamese": "Buổi sáng"
+            },
+            {
+              "id": "w820",
+              "hanzi": "中午",
+              "pinyin": "zhōng wǔ",
+              "sinoVietnamese": "Trung ngọ",
+              "vietnamese": "Buổi trưa"
+            },
+            {
+              "id": "w821",
+              "hanzi": "下午",
+              "pinyin": "xià wǔ",
+              "sinoVietnamese": "Hạ ngọ",
+              "vietnamese": "Buổi chiều"
+            },
+            {
+              "id": "w822",
+              "hanzi": "晚上",
+              "pinyin": "wǎn shang",
+              "sinoVietnamese": "Vãn thượng",
+              "vietnamese": "Buổi tối"
+            },
+            {
+              "id": "w823",
+              "hanzi": "商店",
+              "pinyin": "shāng diàn",
+              "sinoVietnamese": "Thương điếm",
+              "vietnamese": "Cửa hàng"
+            },
+            {
+              "id": "w824",
+              "hanzi": "钱",
+              "pinyin": "qián",
+              "sinoVietnamese": "Tiền",
+              "vietnamese": "Tiền"
+            },
+            {
+              "id": "w825",
+              "hanzi": "多少",
+              "pinyin": "duō shao",
+              "sinoVietnamese": "Đa thiểu",
+              "vietnamese": "Bao nhiêu"
+            },
+            {
+              "id": "w826",
+              "hanzi": "块",
+              "pinyin": "kuài",
+              "sinoVietnamese": "Khối",
+              "vietnamese": "Đồng (Văn nói)"
+            },
+            {
+              "id": "w827",
+              "hanzi": "元",
+              "pinyin": "yuán",
+              "sinoVietnamese": "Nguyên",
+              "vietnamese": "Tệ (Văn viết)"
+            },
+            {
+              "id": "w828",
+              "hanzi": "人民币",
+              "pinyin": "Rén mín bì",
+              "sinoVietnamese": "Nhân dân tệ",
+              "vietnamese": "Nhân dân tệ"
+            },
+            {
+              "id": "w829",
+              "hanzi": "当",
+              "pinyin": "dāng",
+              "sinoVietnamese": "Đương",
+              "vietnamese": "Làm, đảm nhận"
+            }
+          ],
+          "grammars": [
+            {
+              "id": "g81",
+              "title": "Phân biệt 想 (xiǎng) và 要 (yào)",
+              "htmlContent": "<h3>1. Mức độ mong muốn</h3><p>Cả hai từ đều có nghĩa là 'muốn', nhưng mức độ mạnh nhẹ khác nhau:</p><div class=\"example\">- <strong>想 (xiǎng)</strong>: Thể hiện mong muốn, dự định, mang tính chủ quan (Mức độ nhẹ).<br/>- <strong>要 (yào)</strong>: Thể hiện yêu cầu, sự đòi hỏi hoặc quyết tâm phải thực hiện (Mức độ mạnh hơn).<br/><br/><em>Mức độ: 想 &lt; 要</em></div>"
+            },
+            {
+              "id": "g82",
+              "title": "Cách dùng lượng từ 杯 (bēi)",
+              "htmlContent": "<h3>2. Lượng từ 杯 (Ly / Cốc)</h3><p>Dùng để đếm số lượng các loại đồ uống được chứa trong ly, cốc.</p><div class=\"example\"><strong>Cấu trúc: Số từ + 杯 + Danh từ đồ uống</strong><br/>- 一杯奶茶 (yì bēi nǎi chá) : Một cốc trà sữa<br/>- 两杯咖啡 (liǎng bēi kā fēi) : Hai ly cà phê</div>"
+            },
+            {
+              "id": "g83",
+              "title": "Quy tắc diễn đạt thời gian",
+              "htmlContent": "<h3>3. Trật tự thời gian (Từ lớn đến bé)</h3><p>Trong tiếng Trung, khi sắp xếp các trạng ngữ chỉ thời gian, luôn phải tuân theo quy tắc <strong>Từ Lớn Đến Bé</strong>.</p><div class=\"example\"><strong>Cấu trúc: Năm ➔ Tháng ➔ Ngày ➔ Buổi ➔ Giờ</strong><br/>- 2026年 5月 28日 <strong>下午</strong> (Chiều ngày 28 tháng 5 năm 2026)</div>"
+            },
+            {
+              "id": "g84",
+              "title": "Cách nói về Tiền tệ",
+              "htmlContent": "<h3>4. Sự khác biệt giữa 块 và 元</h3><p>Khi nói về tiền tệ (Nhân dân tệ - 人民币), có sự phân biệt rõ ràng giữa văn nói và văn viết.</p><div class=\"example\">- <strong>块 (kuài)</strong>: Dùng phổ biến trong <strong>văn nói</strong> giao tiếp hàng ngày.<br/>- <strong>元 (yuán)</strong>: Thường dùng trong <strong>văn viết</strong>, trên hóa đơn, bảng giá chính thức.</div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "Name": "HSK 2",
+      "NumberOfLesson": 15,
+      "lessons": [
+        {
+          "id": "l16",
+          "name": "Bài 1: Tháng 9 đi Bắc Kinh du lịch là tốt nhất",
+          "words": [
+            {
+              "id": "w101",
+              "hanzi": "旅游",
+              "pinyin": "lǚ yóu",
+              "sinoVietnamese": "Lữ du",
+              "vietnamese": "Du lịch"
+            },
+            {
+              "id": "w102",
+              "hanzi": "觉得",
+              "pinyin": "jué de",
+              "sinoVietnamese": "Giác đắc",
+              "vietnamese": "Cảm thấy, thấy rằng"
+            }
+          ],
+          "grammars": [
+            {
+              "id": "g20",
+              "title": "Trợ động từ 要",
+              "htmlContent": "<h3>1. Trợ động từ 要 (yào)</h3><p>Biểu thị mong muốn hoặc dự định làm gì đó.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我要去北京旅游。(Wǒ yào qù Běijīng lǚyóu) - Tôi muốn đi Bắc Kinh du lịch.</div>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

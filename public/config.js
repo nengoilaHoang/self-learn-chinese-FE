@@ -1,0 +1,3 @@
+window.APP_CONFIG={
+    API_URL: "DINAMIC_API_URL"
+}

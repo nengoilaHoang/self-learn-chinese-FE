@@ -1,0 +1,73 @@
+/* ==========================================================================
+   Tên dự án: App Học Tiếng Trung 
+   Phong cách: Modern Chinoiserie (Tân Cổ Điển Á Đông)
+   ========================================================================== */
+
+/* 1. IMPORT FONTS TỪ GOOGLE FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@400;700;900&family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+
+/* 2. KHAI BÁO BIẾN TOÀN CỤC (CSS VARIABLES) */
+:root {
+  /* Bảng màu chính (Colors) */
+  --primary-red: #C82A2A;   /* Đỏ chu sa */
+  --accent-gold: #D4AF37;   /* Vàng hoàng kim */
+  --jade-green: #359A72;    /* Xanh ngọc bích */
+  --bg-cream: #FBF9F6;      /* Trắng ngà/Giấy xuyến chỉ */
+  --text-ink: #222222;      /* Màu mực tàu */
+
+  /* Hiệu ứng đổ bóng (Shadows) */
+  --shadow-soft-red: 0 10px 25px -5px rgba(200, 42, 42, 0.15);
+  --shadow-glow-gold: 0 0 15px rgba(212, 175, 55, 0.3);
+
+  /* Đường viền & Bo góc (Borders & Radius) */
+  --border-gold: 1px solid var(--accent-gold);
+  --radius-card: 16px;
+  --radius-button: 8px;
+}
+
+/* 3. RESET CSS CƠ BẢN */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* 4. CẤU HÌNH TYPOGRAPHY (Theo yêu cầu của bạn) */
+body {
+  background-color: var(--bg-cream);
+  color: var(--text-ink);
+  font-family: 'Be Vietnam Pro', 'Noto Sans SC', sans-serif;
+  line-height: 1.8; /* Khoảng cách dòng rộng rãi cho chữ Hán */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Các class dùng chung cho tiếng Việt & Pinyin */
+.pinyin, 
+.meaning {
+  font-family: 'Be Vietnam Pro', 'Noto Sans SC', sans-serif;
+  color: var(--text-ink);
+  line-height: 1.8;
+}
+
+/* Font đặc trị cho Tiêu đề & Hán tự (Serif) */
+h1, 
+h2, 
+.chinese-title {
+  font-family: 'Playfair Display', 'Noto Serif SC', serif;
+  color: var(--primary-red);
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+/* 5. CÁC CLASS TIỆN ÍCH (UTILITIES) BỔ SUNG NẾU CẦN */
+.card-chinoiserie {
+  background-color: #FFFFFF;
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-soft-red);
+  padding: 24px;
+}
+
+.border-chinoiserie {
+  border: var(--border-gold);
+}
