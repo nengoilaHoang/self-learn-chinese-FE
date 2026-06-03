@@ -54,7 +54,8 @@ body {
 h1, 
 h2, 
 .chinese-title {
-  font-family: 'Playfair Display', 'Noto Serif SC', serif;
+  /* font-family: 'Playfair Display', 'Noto Serif SC', serif; */
+  font-family: 'PingFang SC', 'Microsoft YaHei', 'SimHei', sans-serif;
   color: var(--primary-red);
   font-weight: 700;
   line-height: 1.3;
