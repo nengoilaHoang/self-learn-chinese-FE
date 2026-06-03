@@ -32,3 +32,4 @@ jobs:
         source: "dist/*"                                 # Đẩy toàn bộ file trong dist
         target: "/var/www/SelfLearnChineseFE"            # Thư mục đích trên server Linux
         strip_components: 1                              # Bỏ qua việc tạo thêm thư mục 'dist/' trên server
+        rm: true
