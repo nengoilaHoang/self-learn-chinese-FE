@@ -26,10 +26,9 @@ jobs:
     - name: upload dist folder to server
       uses: appleboy/scp-action@master
       with:
-        with:
         host: ${{ secrets.SERVER_IP }}
         username: root
-        key: ${{ secrets.SERVER_SSH_KEY }}
+        password: ${{ secrets.SERVER_SSH_KEY }}
         source: "dist/*"                                 # Đẩy toàn bộ file trong dist
         target: "/var/www/SelfLearnChineseFE"            # Thư mục đích trên server Linux
         strip_components: 1                              # Bỏ qua việc tạo thêm thư mục 'dist/' trên server
