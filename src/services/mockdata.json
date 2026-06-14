@@ -991,6 +991,188 @@
               "htmlContent": "<h3>1. 没有哪... (Không có... nào)</h3><p><strong>Công thức:</strong> 没有 + 哪 + Lượng từ + Danh từ</p><div class=\"example\">- <strong>桌子上没有哪本书。</strong><br/>(Zhuōzi shang méiyǒu nǎ běn shū.)<br/>Trên bàn không có cuốn sách nào.</div>"
             }
           ]
+        },
+        {
+          "id": "l11",
+          "name": "Bài 11",
+          "words": [
+            {
+              "id": "w1101",
+              "hanzi": "现在",
+              "pinyin": "xiànzài",
+              "sinoVietnamese": "Hiện tại",
+              "vietnamese": "Bây giờ (Mẹo nhớ: Hiện tại (现) ra ngoài để vua (王) gặp (见).)"
+            },
+            {
+              "id": "w1102",
+              "hanzi": "点",
+              "pinyin": "diǎn",
+              "sinoVietnamese": "",
+              "vietnamese": "Giờ"
+            },
+            {
+              "id": "w1103",
+              "hanzi": "分",
+              "pinyin": "fēn",
+              "sinoVietnamese": "",
+              "vietnamese": "Phút"
+            },
+            {
+              "id": "w1104",
+              "hanzi": "差",
+              "pinyin": "chà",
+              "sinoVietnamese": "",
+              "vietnamese": "Kém (Lưu ý: Còn có nghĩa là tệ, yếu kém. Mẹo nhớ: Còn thiếu (差) 1 con dê (羊) nữa là công việc (工) hoàn thành.)"
+            },
+            {
+              "id": "w1105",
+              "hanzi": "半",
+              "pinyin": "bàn",
+              "sinoVietnamese": "",
+              "vietnamese": "Nửa, rưỡi"
+            },
+            {
+              "id": "w1106",
+              "hanzi": "刻",
+              "pinyin": "kè",
+              "sinoVietnamese": "",
+              "vietnamese": "Khắc (Lưu ý: 1 khắc = 15 phút. 45 phút là sān kè (san ge). Mẹo nhớ: Dùng dao (刂) mổ lợn (亥) trong 1 KHẮC (刻).)"
+            },
+            {
+              "id": "w1107",
+              "hanzi": "早饭",
+              "pinyin": "zǎofàn",
+              "sinoVietnamese": "",
+              "vietnamese": "Bữa sáng"
+            },
+            {
+              "id": "w1108",
+              "hanzi": "午饭",
+              "pinyin": "wǔfàn",
+              "sinoVietnamese": "",
+              "vietnamese": "Bữa trưa (Lưu ý: Ăn trưa là wǔfàn, ghép từ 2 từ này lại.)"
+            },
+            {
+              "id": "w1109",
+              "hanzi": "晚饭",
+              "pinyin": "wǎnfàn",
+              "sinoVietnamese": "",
+              "vietnamese": "Bữa tối"
+            },
+            {
+              "id": "w1110",
+              "hanzi": "电影",
+              "pinyin": "diànyǐng",
+              "sinoVietnamese": "",
+              "vietnamese": "Bộ phim (Lượng từ của phim: 部 (bù).)"
+            },
+            {
+              "id": "w1111",
+              "hanzi": "电视",
+              "pinyin": "diànshì",
+              "sinoVietnamese": "",
+              "vietnamese": "Tivi (Lưu ý: 视 (shì) có nghĩa là nhìn, ngắm.)"
+            },
+            {
+              "id": "w1112",
+              "hanzi": "住",
+              "pinyin": "zhù",
+              "sinoVietnamese": "",
+              "vietnamese": "Sống"
+            },
+            {
+              "id": "w1113",
+              "hanzi": "北京",
+              "pinyin": "Běijīng",
+              "sinoVietnamese": "",
+              "vietnamese": "Bắc Kinh"
+            },
+            {
+              "id": "w1114",
+              "hanzi": "时候",
+              "pinyin": "shíhou",
+              "sinoVietnamese": "",
+              "vietnamese": "Lúc, thời gian (Mẹo nhớ: 1 người (亻) bắn mũi tên (矢) đúng THỜI GIAN (候) nhất định giành được cờ (丨, 乛) hạng nhất.)"
+            },
+            {
+              "id": "w1115",
+              "hanzi": "回",
+              "pinyin": "huí",
+              "sinoVietnamese": "Hồi",
+              "vietnamese": "Về"
+            },
+            {
+              "id": "w1116",
+              "hanzi": "小时",
+              "pinyin": "xiǎoshí",
+              "sinoVietnamese": "",
+              "vietnamese": "1 giờ / tiếng đồng hồ"
+            },
+            {
+              "id": "w1117",
+              "hanzi": "凌晨",
+              "pinyin": "língchén",
+              "sinoVietnamese": "",
+              "vietnamese": "1:00 --- 5:00"
+            },
+            {
+              "id": "w1118",
+              "hanzi": "早上",
+              "pinyin": "zǎoshang",
+              "sinoVietnamese": "",
+              "vietnamese": "6:00 --- 8:00"
+            },
+            {
+              "id": "w1119",
+              "hanzi": "上午",
+              "pinyin": "shàngwǔ",
+              "sinoVietnamese": "",
+              "vietnamese": "8:00 --- 11:00"
+            },
+            {
+              "id": "w1120",
+              "hanzi": "中午",
+              "pinyin": "zhōngwǔ",
+              "sinoVietnamese": "",
+              "vietnamese": "11:00 --- 13:00"
+            },
+            {
+              "id": "w1121",
+              "hanzi": "下午",
+              "pinyin": "xiàwǔ",
+              "sinoVietnamese": "",
+              "vietnamese": "13:00 --- 18:00"
+            },
+            {
+              "id": "w1122",
+              "hanzi": "晚上",
+              "pinyin": "wǎnshàng",
+              "sinoVietnamese": "",
+              "vietnamese": "18:00 --- 00:00"
+            }
+          ],
+          "grammars": [
+            {
+              "id": "g1101",
+              "title": "1. Sắp xếp trật tự thời gian",
+              "htmlContent": "<h3>1. Sắp xếp trật tự thời gian</h3><p><strong>Quy tắc:</strong> Buổi -> giờ -> phút (Đi từ mốc thời gian lớn đến bé).</p><div class=\"example\">- <strong>早上八点一刻</strong><br/>(zǎoshang bā diǎn yī kè)<br/>Ví dụ (8h15 sáng): 早上 (Buổi sáng) + 八点 (8 giờ) + 一刻 (1 khắc = 15p)</div>"
+            },
+            {
+              "id": "g1102",
+              "title": "2. Cách đọc giờ",
+              "htmlContent": "<h3>2. Cách đọc giờ</h3><p><strong>Cấu trúc giờ chẵn:</strong> Số + 点 (diǎn).</p><p><em>Lưu ý:</em> 2 giờ thì dùng 两 (liǎng) + 点 (Dùng \"liǎng\" khi nói giờ, số lượng).</p><p><strong>Cách nói giờ kém:</strong> 差 (chà) + số phút + 分 (fēn) + số giờ + 点 (diǎn).</p><div class=\"example\">- <strong>九点</strong> (jiǔ diǎn): 9 giờ<br/>- <strong>两点</strong> (liǎng diǎn): 2 giờ</div>"
+            },
+            {
+              "id": "g1103",
+              "title": "3. Cách nói Địa Điểm / Nơi Chốn",
+              "htmlContent": "<h3>3. Cách nói Địa Điểm / Nơi Chốn</h3><p>Trong tiếng Trung, nguyên tắc là \"Ở ĐÂU\" phải đứng trước \"LÀM GÌ\".</p><p><strong>Công thức 1 (Hành động):</strong> Ai + 在 (zài) + Ở đâu + Làm gì</p><div class=\"example\">- <strong>我在越南学中文。</strong><br/>(wǒ zài yuènán xué zhōngwén)<br/>Tôi học tiếng Trung ở Việt Nam.</div><p><strong>Công thức 2 (Nơi sống):</strong> Ai + 住在 (zhù zài) + Nơi chốn</p><div class=\"example\">- <strong>我住在越南。</strong><br/>(wǒ zhù zài yuènán)<br/>Tôi sống ở Việt Nam.</div><p><strong>Công thức 3 (Vị trí):</strong> 在 (zài) + Danh từ + 上 (shàng) -> Ở trên cái gì đó.</p><div class=\"example\">- <strong>在电视上我看电影。</strong><br/>(zài diànshì shàng wǒ kàn diànyǐng)<br/>Trên TV tôi xem phim.</div>"
+            },
+            {
+              "id": "g1104",
+              "title": "4. Cấu trúc nói về thời điểm, mốc thời gian làm gì đó",
+              "htmlContent": "<h3>4. Cấu trúc nói về thời điểm, mốc thời gian làm gì đó</h3><p><strong>Cấu trúc 1:</strong> S + mốc thời gian + V (Chủ ngữ mấy giờ làm gì).</p><p><strong>Cấu trúc 2 nói về trước đây:</strong> Số + ngày/ năm + qian (trước) (Bao nhiêu ngày/ năm trước).<br/><em>Lưu ý: Có thể dùng 几 (mấy) để chỉ vài ngày hoặc vài năm trước.</em></p><p><strong>Cấu trúc lúc... thì...:</strong> 在 ... 的时候 ... (zài... de shíhou...)</p><div class=\"example\">- <strong>在学中文的时候</strong><br/>(Lúc đang học tiếng Trung.)<br/>- <strong>在我做饭的时候，我的朋友看书。</strong><br/>(Lúc tôi đang nấu cơm thì bạn tôi đọc sách.)</div>"
+            }
+          ]
         }
       ]
     },
