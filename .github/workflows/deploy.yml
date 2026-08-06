@@ -41,7 +41,7 @@ jobs:
       uses: appleboy/scp-action@master
       with:
         host: ${{ secrets.SERVER_IP }}
-        username: root
+        username: azureuser
         key: ${{ secrets.SERVER_SSH_KEY }}
         source: "dist/*"
         target: "/hostweb/self-learn-chinese"
