@@ -1,0 +1,221 @@
+{
+  "id": "l18",
+  "entryId": "hsk-2/03-bai-3-hsk2",
+  "slug": "bai-3-hsk2",
+  "order": 3,
+  "title": "Bài 3 HSK2",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l3-w01",
+      "hanzi": "手表",
+      "pinyin": "shǒubiǎo",
+      "sinoVietnamese": "",
+      "vietnamese": "Đồng hồ đeo tay"
+    },
+    {
+      "id": "hsk2-l3-w02",
+      "hanzi": "挂钟",
+      "pinyin": "guàzhōng",
+      "sinoVietnamese": "",
+      "vietnamese": "Đồng hồ treo tường"
+    },
+    {
+      "id": "hsk2-l3-w03",
+      "hanzi": "越南盾",
+      "pinyin": "Yuènán dùn",
+      "sinoVietnamese": "",
+      "vietnamese": "Việt Nam đồng"
+    },
+    {
+      "id": "hsk2-l3-w04",
+      "hanzi": "报纸",
+      "pinyin": "bàozhǐ",
+      "sinoVietnamese": "",
+      "vietnamese": "Báo, tờ báo"
+    },
+    {
+      "id": "hsk2-l3-w05",
+      "hanzi": "一下",
+      "pinyin": "yíxià",
+      "sinoVietnamese": "",
+      "vietnamese": "Một chút, một lát"
+    },
+    {
+      "id": "hsk2-l3-w06",
+      "hanzi": "累",
+      "pinyin": "lèi",
+      "sinoVietnamese": "",
+      "vietnamese": "Mệt, mệt mỏi"
+    },
+    {
+      "id": "hsk2-l3-w07",
+      "hanzi": "下班",
+      "pinyin": "xiàbān",
+      "sinoVietnamese": "",
+      "vietnamese": "Tan ca, tan làm"
+    },
+    {
+      "id": "hsk2-l3-w08",
+      "hanzi": "下课",
+      "pinyin": "xiàkè",
+      "sinoVietnamese": "",
+      "vietnamese": "Tan học, hết tiết học"
+    },
+    {
+      "id": "hsk2-l3-w09",
+      "hanzi": "房间",
+      "pinyin": "fángjiān",
+      "sinoVietnamese": "",
+      "vietnamese": "Phòng"
+    },
+    {
+      "id": "hsk2-l3-w10",
+      "hanzi": "丈夫",
+      "pinyin": "zhàngfu",
+      "sinoVietnamese": "",
+      "vietnamese": "Chồng, dùng trong văn viết"
+    },
+    {
+      "id": "hsk2-l3-w11",
+      "hanzi": "妻子",
+      "pinyin": "qīzi",
+      "sinoVietnamese": "",
+      "vietnamese": "Vợ, dùng trong văn viết"
+    },
+    {
+      "id": "hsk2-l3-w12",
+      "hanzi": "老公",
+      "pinyin": "lǎogōng",
+      "sinoVietnamese": "",
+      "vietnamese": "Chồng, dùng trong văn nói"
+    },
+    {
+      "id": "hsk2-l3-w13",
+      "hanzi": "老婆",
+      "pinyin": "lǎopo",
+      "sinoVietnamese": "",
+      "vietnamese": "Vợ, dùng trong văn nói"
+    },
+    {
+      "id": "hsk2-l3-w14",
+      "hanzi": "颜色",
+      "pinyin": "yánsè",
+      "sinoVietnamese": "",
+      "vietnamese": "Màu sắc"
+    },
+    {
+      "id": "hsk2-l3-w15",
+      "hanzi": "红色",
+      "pinyin": "hóngsè",
+      "sinoVietnamese": "",
+      "vietnamese": "Màu đỏ"
+    },
+    {
+      "id": "hsk2-l3-w16",
+      "hanzi": "黄色",
+      "pinyin": "huángsè",
+      "sinoVietnamese": "",
+      "vietnamese": "Màu vàng"
+    },
+    {
+      "id": "hsk2-l3-w17",
+      "hanzi": "粉色",
+      "pinyin": "fěnsè",
+      "sinoVietnamese": "",
+      "vietnamese": "Màu hồng"
+    },
+    {
+      "id": "hsk2-l3-w18",
+      "hanzi": "绿色",
+      "pinyin": "lǜsè",
+      "sinoVietnamese": "",
+      "vietnamese": "Màu xanh lá"
+    },
+    {
+      "id": "hsk2-l3-w19",
+      "hanzi": "蓝色",
+      "pinyin": "lánsè",
+      "sinoVietnamese": "",
+      "vietnamese": "Màu xanh dương"
+    },
+    {
+      "id": "hsk2-l3-w20",
+      "hanzi": "黑色",
+      "pinyin": "hēisè",
+      "sinoVietnamese": "",
+      "vietnamese": "Màu đen"
+    },
+    {
+      "id": "hsk2-l3-w21",
+      "hanzi": "灰色",
+      "pinyin": "huīsè",
+      "sinoVietnamese": "",
+      "vietnamese": "Màu xám"
+    },
+    {
+      "id": "hsk2-l3-w22",
+      "hanzi": "白色",
+      "pinyin": "báisè",
+      "sinoVietnamese": "",
+      "vietnamese": "Màu trắng"
+    },
+    {
+      "id": "hsk2-l3-w23",
+      "hanzi": "左边",
+      "pinyin": "zuǒbian",
+      "sinoVietnamese": "",
+      "vietnamese": "Bên trái"
+    },
+    {
+      "id": "hsk2-l3-w24",
+      "hanzi": "右边",
+      "pinyin": "yòubian",
+      "sinoVietnamese": "",
+      "vietnamese": "Bên phải"
+    },
+    {
+      "id": "hsk2-l3-w25",
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "sinoVietnamese": "",
+      "vietnamese": "Thật, quả là"
+    },
+    {
+      "id": "hsk2-l3-w26",
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "sinoVietnamese": "",
+      "vietnamese": "Ở, sinh sống"
+    },
+    {
+      "id": "hsk2-l3-w27",
+      "hanzi": "容颜",
+      "pinyin": "róngyán",
+      "sinoVietnamese": "",
+      "vietnamese": "Dung mạo, nhan sắc"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l3-g01",
+      "title": "Động từ + 一下",
+      "htmlContent": "<h3>1. Động từ + 一下</h3><p>Diễn tả hành động diễn ra trong thời gian ngắn hoặc làm câu nói nhẹ nhàng hơn.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 休息一下: Nghỉ một lát.<br/>- 看一下报纸: Xem báo một lát.</div>"
+    },
+    {
+      "id": "hsk2-l3-g02",
+      "title": "真 + tính từ",
+      "htmlContent": "<h3>2. 真 + Tính từ</h3><p>Dùng để nhấn mạnh mức độ, mang nghĩa thật là hoặc quả là.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 真累: Thật mệt.<br/>- 真漂亮: Thật đẹp.</div>"
+    },
+    {
+      "id": "hsk2-l3-g03",
+      "title": "住在 + địa điểm",
+      "htmlContent": "<h3>3. 住在 + Địa điểm</h3><p>Dùng để nói một người sống hoặc ở tại một địa điểm nào đó.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我住在越南。: Tôi sống ở Việt Nam.</div>"
+    }
+  ]
+}
