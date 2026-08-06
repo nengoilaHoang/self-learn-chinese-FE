@@ -33,3 +33,4 @@ jobs:
         target: "/hostweb/self-learn-chinese"          # Thư mục đích trên server Linux
         strip_components: 1                              # Bỏ qua việc tạo thêm thư mục 'dist/' trên server
         rm: true
+        timeout: 5m
