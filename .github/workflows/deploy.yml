@@ -32,9 +32,11 @@ jobs:
         key: ${{ secrets.SERVER_SSH_KEY }}
         script: |
           # Xóa toàn bộ file và thư mục con bên trong đích đến
-          rm -rf /hostweb/self-learn-chinese/*
+          sudo rm -rf /hostweb/self-learn-chinese/*
           # Đảm bảo vỏ thư mục đích vẫn tồn tại
-          mkdir -p /hostweb/self-learn-chinese
+          sudo mkdir -p /hostweb/self-learn-chinese
+          # Cấp lại quyền ghi 777 để bước SCP tiếp theo có thể copy file vào mà không bị từ chối
+          sudo chmod -R 777 /hostweb/self-learn-chinese
 
     # --- SỬA LẠI BƯỚC CŨ CỦA BẠN THÀNH THẾ NÀY ---
     - name: Upload thư mục dist lên server
