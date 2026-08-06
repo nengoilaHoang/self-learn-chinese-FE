@@ -1,0 +1,131 @@
+{
+  "id": "l19",
+  "entryId": "hsk-2/04-ke-hoach-cua-ban-than",
+  "slug": "ke-hoach-cua-ban-than",
+  "order": 4,
+  "title": "Bài 4: Kế hoạch của bản thân",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l4-w01",
+      "hanzi": "计划",
+      "pinyin": "jìhuà",
+      "sinoVietnamese": "",
+      "vietnamese": "Kế hoạch"
+    },
+    {
+      "id": "hsk2-l4-w02",
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "sinoVietnamese": "",
+      "vietnamese": "Đã"
+    },
+    {
+      "id": "hsk2-l4-w03",
+      "hanzi": "应该",
+      "pinyin": "yīnggāi",
+      "sinoVietnamese": "",
+      "vietnamese": "Nên; trợ động từ"
+    },
+    {
+      "id": "hsk2-l4-w04",
+      "hanzi": "送",
+      "pinyin": "sòng",
+      "sinoVietnamese": "",
+      "vietnamese": "Tặng, tiễn"
+    },
+    {
+      "id": "hsk2-l4-w05",
+      "hanzi": "礼物",
+      "pinyin": "lǐwù",
+      "sinoVietnamese": "",
+      "vietnamese": "Quà tặng"
+    },
+    {
+      "id": "hsk2-l4-w06",
+      "hanzi": "然后",
+      "pinyin": "ránhòu",
+      "sinoVietnamese": "",
+      "vietnamese": "Sau đó; liên từ"
+    },
+    {
+      "id": "hsk2-l4-w07",
+      "hanzi": "蛋糕",
+      "pinyin": "dàngāo",
+      "sinoVietnamese": "",
+      "vietnamese": "Bánh ngọt"
+    },
+    {
+      "id": "hsk2-l4-w08",
+      "hanzi": "牛排",
+      "pinyin": "niúpái",
+      "sinoVietnamese": "",
+      "vietnamese": "Bít tết"
+    },
+    {
+      "id": "hsk2-l4-w09",
+      "hanzi": "比萨",
+      "pinyin": "bǐsà",
+      "sinoVietnamese": "",
+      "vietnamese": "Pizza"
+    },
+    {
+      "id": "hsk2-l4-w10",
+      "hanzi": "汉堡",
+      "pinyin": "hànbǎo",
+      "sinoVietnamese": "",
+      "vietnamese": "Hamburger"
+    },
+    {
+      "id": "hsk2-l4-w11",
+      "hanzi": "花",
+      "pinyin": "huā",
+      "sinoVietnamese": "",
+      "vietnamese": "Hoa"
+    },
+    {
+      "id": "hsk2-l4-w12",
+      "hanzi": "冰淇淋",
+      "pinyin": "bīngqílín",
+      "sinoVietnamese": "",
+      "vietnamese": "Kem"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l4-g01",
+      "title": "Cách nói về kế hoạch",
+      "htmlContent": "<h3>1. 计划 (jìhuà)</h3><p>Dùng để nói về kế hoạch của bản thân hoặc một kế hoạch cụ thể.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我还没想到学英语的计划。: Tôi vẫn chưa nghĩ ra kế hoạch học tiếng Anh.<br/>- 我的计划是学韩语。: Kế hoạch của tôi là học tiếng Hàn.</div>"
+    },
+    {
+      "id": "hsk2-l4-g02",
+      "title": "已经 và thời lượng",
+      "htmlContent": "<h3>2. 已经 (yǐjīng)</h3><p>Dùng để diễn tả một hành động hoặc trạng thái đã bắt đầu hay đã xảy ra.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 你已经学中文多久了？: Bạn đã học tiếng Trung bao lâu rồi?<br/>- 我已经学中文两个月了。: Tôi đã học tiếng Trung được hai tháng rồi.</div>"
+    },
+    {
+      "id": "hsk2-l4-g03",
+      "title": "Trợ động từ 应该",
+      "htmlContent": "<h3>3. 应该 (yīnggāi)</h3><p>Đứng trước động từ để biểu thị lời khuyên hoặc việc nên làm.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 你应该去外面找工作。: Bạn nên ra ngoài tìm việc.</div>"
+    },
+    {
+      "id": "hsk2-l4-g04",
+      "title": "Cách dùng 送",
+      "htmlContent": "<h3>4. 送 (sòng)</h3><p>Có thể dùng với nghĩa tặng một vật cho ai hoặc tiễn, đưa ai đến một nơi.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我应该送她什么礼物？: Tôi nên tặng cô ấy món quà gì?<br/>- 他已经送我回家。: Anh ấy đã đưa tôi về nhà.</div>"
+    },
+    {
+      "id": "hsk2-l4-g05",
+      "title": "Liên từ 然后",
+      "htmlContent": "<h3>5. 然后 (ránhòu)</h3><p>Dùng để nối hai hành động theo trình tự, mang nghĩa “sau đó”.</p>"
+    },
+    {
+      "id": "hsk2-l4-g06",
+      "title": "Lượng từ 块 với 蛋糕",
+      "htmlContent": "<h3>6. 块 + 蛋糕</h3><p>Dùng 块 làm lượng từ cho một miếng bánh.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 这块蛋糕很好吃。: Miếng bánh này rất ngon.<br/>- 这块蛋糕多少钱？: Miếng bánh này bao nhiêu tiền?</div>"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "id": "l5",
+  "entryId": "hsk-1/05-gia-dinh-ban-co-may-nguoi",
+  "slug": "gia-dinh-ban-co-may-nguoi",
+  "order": 5,
+  "title": "Bài 5: Gia đình bạn có mấy người?",
+  "course": {
+    "id": "c1",
+    "slug": "hsk-1",
+    "name": "HSK 1",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "w501",
+      "hanzi": "一",
+      "pinyin": "yī",
+      "sinoVietnamese": "Nhất",
+      "vietnamese": "Số 1"
+    },
+    {
+      "id": "w502",
+      "hanzi": "二",
+      "pinyin": "èr",
+      "sinoVietnamese": "Nhị",
+      "vietnamese": "Số 2"
+    },
+    {
+      "id": "w503",
+      "hanzi": "三",
+      "pinyin": "sān",
+      "sinoVietnamese": "Tam",
+      "vietnamese": "Số 3"
+    },
+    {
+      "id": "w504",
+      "hanzi": "四",
+      "pinyin": "sì",
+      "sinoVietnamese": "Tứ",
+      "vietnamese": "Số 4"
+    },
+    {
+      "id": "w505",
+      "hanzi": "五",
+      "pinyin": "wǔ",
+      "sinoVietnamese": "Ngũ",
+      "vietnamese": "Số 5"
+    },
+    {
+      "id": "w506",
+      "hanzi": "六",
+      "pinyin": "liù",
+      "sinoVietnamese": "Lục",
+      "vietnamese": "Số 6"
+    },
+    {
+      "id": "w507",
+      "hanzi": "七",
+      "pinyin": "qī",
+      "sinoVietnamese": "Thất",
+      "vietnamese": "Số 7"
+    },
+    {
+      "id": "w508",
+      "hanzi": "八",
+      "pinyin": "bā",
+      "sinoVietnamese": "Bát",
+      "vietnamese": "Số 8"
+    },
+    {
+      "id": "w509",
+      "hanzi": "九",
+      "pinyin": "jiǔ",
+      "sinoVietnamese": "Cửu",
+      "vietnamese": "Số 9"
+    },
+    {
+      "id": "w510",
+      "hanzi": "十",
+      "pinyin": "shí",
+      "sinoVietnamese": "Thập",
+      "vietnamese": "Số 10"
+    },
+    {
+      "id": "w511",
+      "hanzi": "爷爷",
+      "pinyin": "yé ye",
+      "sinoVietnamese": "Gia gia",
+      "vietnamese": "Ông nội"
+    },
+    {
+      "id": "w512",
+      "hanzi": "奶奶",
+      "pinyin": "nǎi nai",
+      "sinoVietnamese": "Nãi nãi",
+      "vietnamese": "Bà nội"
+    },
+    {
+      "id": "w513",
+      "hanzi": "爸爸",
+      "pinyin": "bà ba",
+      "sinoVietnamese": "Ba ba",
+      "vietnamese": "Bố, ba"
+    },
+    {
+      "id": "w514",
+      "hanzi": "妈妈",
+      "pinyin": "mā ma",
+      "sinoVietnamese": "Ma ma",
+      "vietnamese": "Mẹ, má"
+    },
+    {
+      "id": "w515",
+      "hanzi": "哥哥",
+      "pinyin": "gē ge",
+      "sinoVietnamese": "Ca ca",
+      "vietnamese": "Anh trai"
+    },
+    {
+      "id": "w516",
+      "hanzi": "姐姐",
+      "pinyin": "jiě jie",
+      "sinoVietnamese": "Tỷ tỷ",
+      "vietnamese": "Chị gái"
+    },
+    {
+      "id": "w517",
+      "hanzi": "弟弟",
+      "pinyin": "dì di",
+      "sinoVietnamese": "Đệ đệ",
+      "vietnamese": "Em trai"
+    },
+    {
+      "id": "w518",
+      "hanzi": "妹妹",
+      "pinyin": "mèi mei",
+      "sinoVietnamese": "Muội muội",
+      "vietnamese": "Em gái"
+    },
+    {
+      "id": "w519",
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "sinoVietnamese": "Hữu",
+      "vietnamese": "Có"
+    },
+    {
+      "id": "w520",
+      "hanzi": "没有",
+      "pinyin": "méi yǒu",
+      "sinoVietnamese": "Một hữu",
+      "vietnamese": "Không có"
+    },
+    {
+      "id": "w521",
+      "hanzi": "今年",
+      "pinyin": "jīn nián",
+      "sinoVietnamese": "Kim niên",
+      "vietnamese": "Năm nay"
+    },
+    {
+      "id": "w522",
+      "hanzi": "去年",
+      "pinyin": "qù nián",
+      "sinoVietnamese": "Khứ niên",
+      "vietnamese": "Năm ngoái"
+    },
+    {
+      "id": "w523",
+      "hanzi": "明年",
+      "pinyin": "míng nián",
+      "sinoVietnamese": "Minh niên",
+      "vietnamese": "Năm sau"
+    },
+    {
+      "id": "w524",
+      "hanzi": "几",
+      "pinyin": "jǐ",
+      "sinoVietnamese": "Kỉ",
+      "vietnamese": "Mấy (Dưới 10)"
+    },
+    {
+      "id": "w525",
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "sinoVietnamese": "Tuế",
+      "vietnamese": "Tuổi"
+    },
+    {
+      "id": "w526",
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "sinoVietnamese": "Khiếu",
+      "vietnamese": "Tên là, gọi"
+    },
+    {
+      "id": "w527",
+      "hanzi": "多",
+      "pinyin": "duō",
+      "sinoVietnamese": "Đa",
+      "vietnamese": "Nhiều, bao nhiêu"
+    },
+    {
+      "id": "w528",
+      "hanzi": "少",
+      "pinyin": "shǎo",
+      "sinoVietnamese": "Thiểu",
+      "vietnamese": "Ít"
+    },
+    {
+      "id": "w529",
+      "hanzi": "大",
+      "pinyin": "dà",
+      "sinoVietnamese": "Đại",
+      "vietnamese": "Lớn"
+    },
+    {
+      "id": "w530",
+      "hanzi": "年纪",
+      "pinyin": "nián jì",
+      "sinoVietnamese": "Niên kỉ",
+      "vietnamese": "Tuổi tác"
+    },
+    {
+      "id": "w531",
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "sinoVietnamese": "Khẩu",
+      "vietnamese": "Lượng từ (cho người trong gia đình)"
+    },
+    {
+      "id": "w532",
+      "hanzi": "个",
+      "pinyin": "gè",
+      "sinoVietnamese": "Cá",
+      "vietnamese": "Lượng từ (cái, con, người)"
+    },
+    {
+      "id": "w533",
+      "hanzi": "了",
+      "pinyin": "le",
+      "sinoVietnamese": "Liễu",
+      "vietnamese": "Rồi (Trợ từ)"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "g51",
+      "title": "Hỏi số lượng với 几",
+      "htmlContent": "<h3>1. Cấu trúc hỏi số lượng</h3><p>Công thức: <strong>几 (Mấy) + Lượng từ + Danh từ?</strong></p><p><em>Lưu ý:</em> Từ \"几\" thường dùng khi ước tính số lượng nhỏ hơn 10.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 你家有几口人? (Nǐ jiā yǒu jǐ kǒu rén?) - Nhà bạn có mấy người?</div>"
+    },
+    {
+      "id": "g52",
+      "title": "Các cách hỏi tuổi",
+      "htmlContent": "<h3>2. Cách hỏi tuổi theo đối tượng</h3><p>Tùy thuộc vào độ tuổi và vai vế của người đối diện, tiếng Trung có 3 cách hỏi tuổi khác nhau:</p><div class=\"example\">- <strong>Trẻ em (< 10 tuổi):</strong> 几岁了? (Jǐ suì le?)<br/>- <strong>Người bằng lứa / Trẻ tuổi:</strong> 多大了? (Duō dà le?)<br/>- <strong>Người lớn tuổi / Cần sự kính trọng:</strong> 多大年纪了? (Duō dà nián jì le?)</div>"
+    },
+    {
+      "id": "g53",
+      "title": "Phân biệt lượng từ 口 và 个",
+      "htmlContent": "<h3>3. Phân biệt 口 (kǒu) và 个 (gè)</h3><p>Cả hai đều có thể dùng làm lượng từ cho người, nhưng cách dùng khác nhau:</p><div class=\"example\">- <strong>口 (kǒu)</strong>: Chỉ dùng khi hỏi hoặc nói về <em>tổng số thành viên</em> trong một gia đình (giống như \"nhà có mấy miệng ăn\").<br/>- <strong>个 (gè)</strong>: Là lượng từ phổ biến nhất, dùng cho người nói chung hoặc khi nhắc đến từng cá nhân cụ thể.</div>"
+    },
+    {
+      "id": "g54",
+      "title": "Trợ từ 了",
+      "htmlContent": "<h3>4. Cách dùng trợ từ 了 (le)</h3><p>Đặt <strong>了</strong> ở cuối câu để chỉ một trạng thái đã thay đổi hoặc một hành động đã xảy ra (thường dịch là \"rồi\").</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我二十岁了。(Wǒ èr shí suì le) - Tôi 20 tuổi rồi. (Ý chỉ sự thay đổi tuổi tác từ 19 sang 20).</div>"
+    }
+  ]
+}

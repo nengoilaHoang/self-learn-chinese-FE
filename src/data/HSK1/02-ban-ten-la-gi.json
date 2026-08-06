@@ -1,0 +1,36 @@
+{
+  "id": "l2",
+  "entryId": "hsk-1/02-ban-ten-la-gi",
+  "slug": "ban-ten-la-gi",
+  "order": 2,
+  "title": "Bài 2: Bạn tên là gì?",
+  "course": {
+    "id": "c1",
+    "slug": "hsk-1",
+    "name": "HSK 1",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "w4",
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "sinoVietnamese": "Khiếu",
+      "vietnamese": "Gọi, tên là"
+    },
+    {
+      "id": "w5",
+      "hanzi": "名字",
+      "pinyin": "míng zi",
+      "sinoVietnamese": "Danh tự",
+      "vietnamese": "Tên"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "g3",
+      "title": "Đại từ nghi vấn 什么",
+      "htmlContent": "<h3>1. Đại từ nghi vấn 什么 (shén me)</h3><p>Dùng để hỏi về sự vật, sự việc (Cái gì, gì).</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 你叫什么名字？ (Nǐ jiào shén me míng zi?) - Bạn tên là gì?</div>"
+    }
+  ]
+}

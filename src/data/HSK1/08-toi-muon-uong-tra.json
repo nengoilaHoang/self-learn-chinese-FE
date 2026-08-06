@@ -1,0 +1,240 @@
+{
+  "id": "l8",
+  "entryId": "hsk-1/08-toi-muon-uong-tra",
+  "slug": "toi-muon-uong-tra",
+  "order": 8,
+  "title": "Bài 8: Tôi muốn uống trà",
+  "course": {
+    "id": "c1",
+    "slug": "hsk-1",
+    "name": "HSK 1",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "w801",
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "sinoVietnamese": "Trà",
+      "vietnamese": "Trà"
+    },
+    {
+      "id": "w802",
+      "hanzi": "冰茶",
+      "pinyin": "bīng chá",
+      "sinoVietnamese": "Băng trà",
+      "vietnamese": "Trà đá"
+    },
+    {
+      "id": "w803",
+      "hanzi": "奶茶",
+      "pinyin": "nǎi chá",
+      "sinoVietnamese": "Nãi trà",
+      "vietnamese": "Trà sữa"
+    },
+    {
+      "id": "w804",
+      "hanzi": "可乐",
+      "pinyin": "kě lè",
+      "sinoVietnamese": "Khả lạc",
+      "vietnamese": "Nước ngọt / Cola"
+    },
+    {
+      "id": "w805",
+      "hanzi": "咖啡",
+      "pinyin": "kā fēi",
+      "sinoVietnamese": "Ca phê",
+      "vietnamese": "Cà phê"
+    },
+    {
+      "id": "w806",
+      "hanzi": "啤酒",
+      "pinyin": "pí jiǔ",
+      "sinoVietnamese": "Tì tửu",
+      "vietnamese": "Bia"
+    },
+    {
+      "id": "w807",
+      "hanzi": "牛奶",
+      "pinyin": "niú nǎi",
+      "sinoVietnamese": "Ngưu nãi",
+      "vietnamese": "Sữa bò"
+    },
+    {
+      "id": "w808",
+      "hanzi": "酒",
+      "pinyin": "jiǔ",
+      "sinoVietnamese": "Tửu",
+      "vietnamese": "Rượu"
+    },
+    {
+      "id": "w809",
+      "hanzi": "白水",
+      "pinyin": "bái shuǐ",
+      "sinoVietnamese": "Bạch thủy",
+      "vietnamese": "Nước lọc"
+    },
+    {
+      "id": "w810",
+      "hanzi": "果汁",
+      "pinyin": "guǒ zhī",
+      "sinoVietnamese": "Quả trấp",
+      "vietnamese": "Nước ép trái cây"
+    },
+    {
+      "id": "w811",
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "sinoVietnamese": "Hát",
+      "vietnamese": "Uống"
+    },
+    {
+      "id": "w812",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "sinoVietnamese": "Tưởng",
+      "vietnamese": "Muốn (nhấn mạnh suy nghĩ)"
+    },
+    {
+      "id": "w813",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "sinoVietnamese": "Yếu",
+      "vietnamese": "Muốn (nhấn mạnh nhu cầu)"
+    },
+    {
+      "id": "w814",
+      "hanzi": "杯子",
+      "pinyin": "bēi zi",
+      "sinoVietnamese": "Bôi tử",
+      "vietnamese": "Ly, cốc (Danh từ)"
+    },
+    {
+      "id": "w815",
+      "hanzi": "米饭",
+      "pinyin": "mǐ fàn",
+      "sinoVietnamese": "Mễ phạn",
+      "vietnamese": "Cơm trắng"
+    },
+    {
+      "id": "w816",
+      "hanzi": "包子",
+      "pinyin": "bāo zi",
+      "sinoVietnamese": "Bao tử",
+      "vietnamese": "Bánh bao"
+    },
+    {
+      "id": "w817",
+      "hanzi": "饺子",
+      "pinyin": "jiǎo zi",
+      "sinoVietnamese": "Giảo tử",
+      "vietnamese": "Sủi cảo"
+    },
+    {
+      "id": "w818",
+      "hanzi": "面条",
+      "pinyin": "miàn tiáo",
+      "sinoVietnamese": "Diện điều",
+      "vietnamese": "Mì sợi"
+    },
+    {
+      "id": "w819",
+      "hanzi": "上午",
+      "pinyin": "shàng wǔ",
+      "sinoVietnamese": "Thượng ngọ",
+      "vietnamese": "Buổi sáng"
+    },
+    {
+      "id": "w820",
+      "hanzi": "中午",
+      "pinyin": "zhōng wǔ",
+      "sinoVietnamese": "Trung ngọ",
+      "vietnamese": "Buổi trưa"
+    },
+    {
+      "id": "w821",
+      "hanzi": "下午",
+      "pinyin": "xià wǔ",
+      "sinoVietnamese": "Hạ ngọ",
+      "vietnamese": "Buổi chiều"
+    },
+    {
+      "id": "w822",
+      "hanzi": "晚上",
+      "pinyin": "wǎn shang",
+      "sinoVietnamese": "Vãn thượng",
+      "vietnamese": "Buổi tối"
+    },
+    {
+      "id": "w823",
+      "hanzi": "商店",
+      "pinyin": "shāng diàn",
+      "sinoVietnamese": "Thương điếm",
+      "vietnamese": "Cửa hàng"
+    },
+    {
+      "id": "w824",
+      "hanzi": "钱",
+      "pinyin": "qián",
+      "sinoVietnamese": "Tiền",
+      "vietnamese": "Tiền"
+    },
+    {
+      "id": "w825",
+      "hanzi": "多少",
+      "pinyin": "duō shao",
+      "sinoVietnamese": "Đa thiểu",
+      "vietnamese": "Bao nhiêu"
+    },
+    {
+      "id": "w826",
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "sinoVietnamese": "Khối",
+      "vietnamese": "Đồng (Văn nói)"
+    },
+    {
+      "id": "w827",
+      "hanzi": "元",
+      "pinyin": "yuán",
+      "sinoVietnamese": "Nguyên",
+      "vietnamese": "Tệ (Văn viết)"
+    },
+    {
+      "id": "w828",
+      "hanzi": "人民币",
+      "pinyin": "Rén mín bì",
+      "sinoVietnamese": "Nhân dân tệ",
+      "vietnamese": "Nhân dân tệ"
+    },
+    {
+      "id": "w829",
+      "hanzi": "当",
+      "pinyin": "dāng",
+      "sinoVietnamese": "Đương",
+      "vietnamese": "Làm, đảm nhận"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "g81",
+      "title": "Phân biệt 想 (xiǎng) và 要 (yào)",
+      "htmlContent": "<h3>1. Mức độ mong muốn</h3><p>Cả hai từ đều có nghĩa là 'muốn', nhưng mức độ mạnh nhẹ khác nhau:</p><div class=\"example\">- <strong>想 (xiǎng)</strong>: Thể hiện mong muốn, dự định, mang tính chủ quan (Mức độ nhẹ).<br/>- <strong>要 (yào)</strong>: Thể hiện yêu cầu, sự đòi hỏi hoặc quyết tâm phải thực hiện (Mức độ mạnh hơn).<br/><br/><em>Mức độ: 想 &lt; 要</em></div>"
+    },
+    {
+      "id": "g82",
+      "title": "Cách dùng lượng từ 杯 (bēi)",
+      "htmlContent": "<h3>2. Lượng từ 杯 (Ly / Cốc)</h3><p>Dùng để đếm số lượng các loại đồ uống được chứa trong ly, cốc.</p><div class=\"example\"><strong>Cấu trúc: Số từ + 杯 + Danh từ đồ uống</strong><br/>- 一杯奶茶 (yì bēi nǎi chá) : Một cốc trà sữa<br/>- 两杯咖啡 (liǎng bēi kā fēi) : Hai ly cà phê</div>"
+    },
+    {
+      "id": "g83",
+      "title": "Quy tắc diễn đạt thời gian",
+      "htmlContent": "<h3>3. Trật tự thời gian (Từ lớn đến bé)</h3><p>Trong tiếng Trung, khi sắp xếp các trạng ngữ chỉ thời gian, luôn phải tuân theo quy tắc <strong>Từ Lớn Đến Bé</strong>.</p><div class=\"example\"><strong>Cấu trúc: Năm ➔ Tháng ➔ Ngày ➔ Buổi ➔ Giờ</strong><br/>- 2026年 5月 28日 <strong>下午</strong> (Chiều ngày 28 tháng 5 năm 2026)</div>"
+    },
+    {
+      "id": "g84",
+      "title": "Cách nói về Tiền tệ",
+      "htmlContent": "<h3>4. Sự khác biệt giữa 块 và 元</h3><p>Khi nói về tiền tệ (Nhân dân tệ - 人民币), có sự phân biệt rõ ràng giữa văn nói và văn viết.</p><div class=\"example\">- <strong>块 (kuài)</strong>: Dùng phổ biến trong <strong>văn nói</strong> giao tiếp hàng ngày.<br/>- <strong>元 (yuán)</strong>: Thường dùng trong <strong>văn viết</strong>, trên hóa đơn, bảng giá chính thức.</div>"
+    }
+  ]
+}

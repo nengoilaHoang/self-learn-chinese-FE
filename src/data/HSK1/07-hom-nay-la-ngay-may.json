@@ -1,0 +1,186 @@
+{
+  "id": "l7",
+  "entryId": "hsk-1/07-hom-nay-la-ngay-may",
+  "slug": "hom-nay-la-ngay-may",
+  "order": 7,
+  "title": "Bài 7: Hôm nay là ngày mấy?",
+  "course": {
+    "id": "c1",
+    "slug": "hsk-1",
+    "name": "HSK 1",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "w701",
+      "hanzi": "两",
+      "pinyin": "liǎng",
+      "sinoVietnamese": "Lưỡng",
+      "vietnamese": "Hai (Dùng khi đếm số lượng)"
+    },
+    {
+      "id": "w702",
+      "hanzi": "但是",
+      "pinyin": "dàn shì",
+      "sinoVietnamese": "Đãn thị",
+      "vietnamese": "Nhưng, nhưng mà"
+    },
+    {
+      "id": "w703",
+      "hanzi": "难",
+      "pinyin": "nán",
+      "sinoVietnamese": "Nan",
+      "vietnamese": "Khó"
+    },
+    {
+      "id": "w704",
+      "hanzi": "那",
+      "pinyin": "nà",
+      "sinoVietnamese": "Na",
+      "vietnamese": "Kia, đó"
+    },
+    {
+      "id": "w705",
+      "hanzi": "问",
+      "pinyin": "wèn",
+      "sinoVietnamese": "Vấn",
+      "vietnamese": "Hỏi"
+    },
+    {
+      "id": "w706",
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "sinoVietnamese": "Ái",
+      "vietnamese": "Yêu"
+    },
+    {
+      "id": "w707",
+      "hanzi": "喜欢",
+      "pinyin": "xǐ huan",
+      "sinoVietnamese": "Hỉ hoan",
+      "vietnamese": "Thích"
+    },
+    {
+      "id": "w708",
+      "hanzi": "请",
+      "pinyin": "qǐng",
+      "sinoVietnamese": "Thỉnh",
+      "vietnamese": "Xin mời, xin vui lòng"
+    },
+    {
+      "id": "w709",
+      "hanzi": "好的",
+      "pinyin": "hǎo de",
+      "sinoVietnamese": "Hảo đích",
+      "vietnamese": "Được, vâng, ok"
+    },
+    {
+      "id": "w710",
+      "hanzi": "号",
+      "pinyin": "hào",
+      "sinoVietnamese": "Hiệu",
+      "vietnamese": "Ngày (trong tháng), số"
+    },
+    {
+      "id": "w711",
+      "hanzi": "今天",
+      "pinyin": "jīn tiān",
+      "sinoVietnamese": "Kim thiên",
+      "vietnamese": "Hôm nay"
+    },
+    {
+      "id": "w712",
+      "hanzi": "昨天",
+      "pinyin": "zuó tiān",
+      "sinoVietnamese": "Tạc thiên",
+      "vietnamese": "Hôm qua"
+    },
+    {
+      "id": "w713",
+      "hanzi": "明天",
+      "pinyin": "míng tiān",
+      "sinoVietnamese": "Minh thiên",
+      "vietnamese": "Ngày mai"
+    },
+    {
+      "id": "w714",
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "sinoVietnamese": "Nguyệt",
+      "vietnamese": "Tháng"
+    },
+    {
+      "id": "w715",
+      "hanzi": "星期",
+      "pinyin": "xīng qī",
+      "sinoVietnamese": "Tinh kỳ",
+      "vietnamese": "Tuần, thứ"
+    },
+    {
+      "id": "w716",
+      "hanzi": "星期日",
+      "pinyin": "xīng qī rì",
+      "sinoVietnamese": "Tinh kỳ nhật",
+      "vietnamese": "Chủ nhật"
+    },
+    {
+      "id": "w717",
+      "hanzi": "周日",
+      "pinyin": "zhōu rì",
+      "sinoVietnamese": "Chu nhật",
+      "vietnamese": "Chủ nhật (Khẩu ngữ)"
+    },
+    {
+      "id": "w718",
+      "hanzi": "礼拜天",
+      "pinyin": "lǐ bài tiān",
+      "sinoVietnamese": "Lễ bái thiên",
+      "vietnamese": "Chủ nhật (Dùng nhiều ở khẩu ngữ miền Nam)"
+    },
+    {
+      "id": "w719",
+      "hanzi": "生日",
+      "pinyin": "shēng rì",
+      "sinoVietnamese": "Sinh nhật",
+      "vietnamese": "Sinh nhật"
+    },
+    {
+      "id": "w720",
+      "hanzi": "过",
+      "pinyin": "guò",
+      "sinoVietnamese": "Quá",
+      "vietnamese": "Đón, trải qua (VD: Đón sinh nhật)"
+    },
+    {
+      "id": "w721",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "sinoVietnamese": "Khứ",
+      "vietnamese": "Đi"
+    },
+    {
+      "id": "w722",
+      "hanzi": "学校",
+      "pinyin": "xué xiào",
+      "sinoVietnamese": "Học hiệu",
+      "vietnamese": "Trường học"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "g71",
+      "title": "Cấu trúc 的 rút gọn (Khuyết danh từ)",
+      "htmlContent": "<h3>1. Cấu trúc 的 rút gọn</h3><p>Khi danh từ đã xuất hiện ở đầu câu hoặc trong ngữ cảnh đã rõ ràng, ta có thể dừng ở chữ <strong>的</strong> để tránh lặp lại từ đó, tạo sự tự nhiên cho câu.</p><div class=\"example\"><strong>Công thức:</strong> Đối tượng + 是 + [Ai / Hành động] + 的 (吗)？<br/><br/><strong>Ví dụ:</strong><br/>- 那个汉字是你写的吗？ (Nà ge hàn zì shì nǐ xiě de ma?)<br/><em>Chữ Hán đó là [chữ] bạn viết phải không? — Ẩn chữ \"chữ Hán\" ở cuối.</em></div>"
+    },
+    {
+      "id": "g72",
+      "title": "Cách hỏi và nói ngày tháng",
+      "htmlContent": "<h3>2. Cách hỏi ngày tháng</h3><p>Tiếng Trung tuân thủ nguyên tắc từ lớn đến bé, nên khi nói ngày tháng sẽ theo thứ tự: <strong>Tháng -> Ngày -> Thứ</strong>.</p><div class=\"example\"><strong>Công thức hỏi:</strong> 几月 + 几号 + 星期几？<br/><br/><strong>Ví dụ:</strong><br/>- 今天几月几号星期几？ (Jīn tiān jǐ yuè jǐ hào xīng qī jǐ?)<br/><em>Hôm nay là thứ mấy ngày mấy tháng mấy?</em><br/>- 今天是五月二十八号，星期四。(Jīn tiān shì wǔ yuè èr shí bā hào, xīng qī sì)<br/><em>Hôm nay là thứ Năm, ngày 28 tháng 5.</em></div>"
+    },
+    {
+      "id": "g73",
+      "title": "Câu liên động (Đi đâu làm gì)",
+      "htmlContent": "<h3>3. Câu liên động</h3><p>Là câu có hai động từ trở lên, trong đó hành động thứ hai là mục đích của hành động thứ nhất. Thường dùng để biểu thị \"Đi đến một nơi nào đó để làm gì\".</p><div class=\"example\"><strong>Công thức:</strong> 去 (Đi) + Địa điểm + Hành động<br/><br/><strong>Ví dụ:</strong><br/>- 我去学校学汉语。(Wǒ qù xué xiào xué hàn yǔ)<br/><em>Tôi đến trường học tiếng Trung.</em><br/>- 明天我去商店买东西。(Míng tiān wǒ qù shāng diàn mǎi dōng xi)<br/><em>Ngày mai tôi đi cửa hàng mua đồ.</em></div>"
+    }
+  ]
+}

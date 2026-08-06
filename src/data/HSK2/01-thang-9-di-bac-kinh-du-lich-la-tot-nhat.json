@@ -1,0 +1,165 @@
+{
+  "id": "l16",
+  "entryId": "hsk-2/01-thang-9-di-bac-kinh-du-lich-la-tot-nhat",
+  "slug": "thang-9-di-bac-kinh-du-lich-la-tot-nhat",
+  "order": 1,
+  "title": "Bài 1: Tháng 9 đi Bắc Kinh du lịch là tốt nhất",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l1-w01",
+      "hanzi": "旅游",
+      "pinyin": "lǚyóu",
+      "sinoVietnamese": "",
+      "vietnamese": "Du lịch"
+    },
+    {
+      "id": "hsk2-l1-w02",
+      "hanzi": "方",
+      "pinyin": "fāng",
+      "sinoVietnamese": "",
+      "vietnamese": "Phương, hướng"
+    },
+    {
+      "id": "hsk2-l1-w03",
+      "hanzi": "运动",
+      "pinyin": "yùndòng",
+      "sinoVietnamese": "",
+      "vietnamese": "Vận động, tập thể dục, thể thao"
+    },
+    {
+      "id": "hsk2-l1-w04",
+      "hanzi": "最",
+      "pinyin": "zuì",
+      "sinoVietnamese": "",
+      "vietnamese": "Nhất"
+    },
+    {
+      "id": "hsk2-l1-w05",
+      "hanzi": "为什么",
+      "pinyin": "wèishénme",
+      "sinoVietnamese": "",
+      "vietnamese": "Tại sao, vì sao"
+    },
+    {
+      "id": "hsk2-l1-w06",
+      "hanzi": "因为",
+      "pinyin": "yīnwèi",
+      "sinoVietnamese": "",
+      "vietnamese": "Bởi vì"
+    },
+    {
+      "id": "hsk2-l1-w07",
+      "hanzi": "还",
+      "pinyin": "hái",
+      "sinoVietnamese": "",
+      "vietnamese": "Vẫn, vẫn còn"
+    },
+    {
+      "id": "hsk2-l1-w08",
+      "hanzi": "早",
+      "pinyin": "zǎo",
+      "sinoVietnamese": "",
+      "vietnamese": "Sớm"
+    },
+    {
+      "id": "hsk2-l1-w09",
+      "hanzi": "晚",
+      "pinyin": "wǎn",
+      "sinoVietnamese": "",
+      "vietnamese": "Muộn"
+    },
+    {
+      "id": "hsk2-l1-w10",
+      "hanzi": "足球",
+      "pinyin": "zúqiú",
+      "sinoVietnamese": "",
+      "vietnamese": "Bóng đá"
+    },
+    {
+      "id": "hsk2-l1-w11",
+      "hanzi": "篮球",
+      "pinyin": "lánqiú",
+      "sinoVietnamese": "",
+      "vietnamese": "Bóng rổ"
+    },
+    {
+      "id": "hsk2-l1-w12",
+      "hanzi": "乒乓球",
+      "pinyin": "pīngpāngqiú",
+      "sinoVietnamese": "",
+      "vietnamese": "Bóng bàn"
+    },
+    {
+      "id": "hsk2-l1-w13",
+      "hanzi": "排球",
+      "pinyin": "páiqiú",
+      "sinoVietnamese": "",
+      "vietnamese": "Bóng chuyền"
+    },
+    {
+      "id": "hsk2-l1-w14",
+      "hanzi": "羽毛球",
+      "pinyin": "yǔmáoqiú",
+      "sinoVietnamese": "",
+      "vietnamese": "Cầu lông"
+    },
+    {
+      "id": "hsk2-l1-w15",
+      "hanzi": "打",
+      "pinyin": "dǎ",
+      "sinoVietnamese": "",
+      "vietnamese": "Đánh, chơi"
+    },
+    {
+      "id": "hsk2-l1-w16",
+      "hanzi": "踢",
+      "pinyin": "tī",
+      "sinoVietnamese": "",
+      "vietnamese": "Đá"
+    },
+    {
+      "id": "hsk2-l1-w17",
+      "hanzi": "它",
+      "pinyin": "tā",
+      "sinoVietnamese": "",
+      "vietnamese": "Nó, dùng cho động vật hoặc đồ vật"
+    },
+    {
+      "id": "hsk2-l1-w18",
+      "hanzi": "眼睛",
+      "pinyin": "yǎnjing",
+      "sinoVietnamese": "",
+      "vietnamese": "Mắt"
+    },
+    {
+      "id": "hsk2-l1-w19",
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "sinoVietnamese": "",
+      "vietnamese": "Vấn đề, câu hỏi"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l1-g01",
+      "title": "Cách dùng 十几",
+      "htmlContent": "<h3>1. 十几 (shí jǐ)</h3><p>Dùng để biểu thị số lượng từ 11 đến 19, thường dịch là <strong>mười mấy</strong>.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 十几个人: Mười mấy người.<br/>- 十几本书: Mười mấy quyển sách.</div>"
+    },
+    {
+      "id": "hsk2-l1-g02",
+      "title": "Cách dùng 几十",
+      "htmlContent": "<h3>2. 几十 (jǐ shí)</h3><p>Dùng để biểu thị một số lượng không xác định theo hàng chục, thường dịch là <strong>mấy chục</strong>.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 几十个人: Mấy chục người.<br/>- 几十块钱: Mấy chục tệ.</div>"
+    },
+    {
+      "id": "hsk2-l1-g03",
+      "title": "Số + lượng từ + 多 + danh từ",
+      "htmlContent": "<h3>3. Số + Lượng từ + 多 + Danh từ</h3><p>Cấu trúc này biểu thị số lượng nhiều hơn con số được nhắc đến một chút. Cách dùng này áp dụng khi con số đứng trước nhỏ hơn 10.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 三个多小时: Hơn ba tiếng, chưa đến bốn tiếng.<br/>- 五块多钱: Hơn năm tệ, chưa đến sáu tệ.</div>"
+    }
+  ]
+}

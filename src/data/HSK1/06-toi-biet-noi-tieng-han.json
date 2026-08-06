@@ -1,0 +1,177 @@
+{
+  "id": "l6",
+  "entryId": "hsk-1/06-toi-biet-noi-tieng-han",
+  "slug": "toi-biet-noi-tieng-han",
+  "order": 6,
+  "title": "Bài 6: Tôi biết nói tiếng Hán",
+  "course": {
+    "id": "c1",
+    "slug": "hsk-1",
+    "name": "HSK 1",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "w601",
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "sinoVietnamese": "Thính",
+      "vietnamese": "Nghe"
+    },
+    {
+      "id": "w602",
+      "hanzi": "说",
+      "pinyin": "shuō",
+      "sinoVietnamese": "Thuyết",
+      "vietnamese": "Nói"
+    },
+    {
+      "id": "w603",
+      "hanzi": "读",
+      "pinyin": "dú",
+      "sinoVietnamese": "Độc",
+      "vietnamese": "Đọc"
+    },
+    {
+      "id": "w604",
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "sinoVietnamese": "Tả",
+      "vietnamese": "Viết"
+    },
+    {
+      "id": "w605",
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "sinoVietnamese": "Mãi",
+      "vietnamese": "Mua"
+    },
+    {
+      "id": "w606",
+      "hanzi": "卖",
+      "pinyin": "mài",
+      "sinoVietnamese": "Mại",
+      "vietnamese": "Bán"
+    },
+    {
+      "id": "w607",
+      "hanzi": "头",
+      "pinyin": "tóu",
+      "sinoVietnamese": "Đầu",
+      "vietnamese": "Đầu"
+    },
+    {
+      "id": "w608",
+      "hanzi": "汉语",
+      "pinyin": "hàn yǔ",
+      "sinoVietnamese": "Hán ngữ",
+      "vietnamese": "Tiếng Hán"
+    },
+    {
+      "id": "w609",
+      "hanzi": "中文",
+      "pinyin": "zhōng wén",
+      "sinoVietnamese": "Trung văn",
+      "vietnamese": "Tiếng Trung"
+    },
+    {
+      "id": "w610",
+      "hanzi": "汉字",
+      "pinyin": "hàn zì",
+      "sinoVietnamese": "Hán tự",
+      "vietnamese": "Chữ Hán"
+    },
+    {
+      "id": "w611",
+      "hanzi": "字",
+      "pinyin": "zì",
+      "sinoVietnamese": "Tự",
+      "vietnamese": "Chữ"
+    },
+    {
+      "id": "w612",
+      "hanzi": "文字",
+      "pinyin": "wén zì",
+      "sinoVietnamese": "Văn tự",
+      "vietnamese": "Chữ viết, văn tự"
+    },
+    {
+      "id": "w613",
+      "hanzi": "会",
+      "pinyin": "huì",
+      "sinoVietnamese": "Hội",
+      "vietnamese": "Biết (thông qua học tập)"
+    },
+    {
+      "id": "w614",
+      "hanzi": "云",
+      "pinyin": "yún",
+      "sinoVietnamese": "Vân",
+      "vietnamese": "Mây"
+    },
+    {
+      "id": "w615",
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "sinoVietnamese": "Thái",
+      "vietnamese": "Món ăn, rau"
+    },
+    {
+      "id": "w616",
+      "hanzi": "喜欢",
+      "pinyin": "xǐ huan",
+      "sinoVietnamese": "Hỉ hoan",
+      "vietnamese": "Thích"
+    },
+    {
+      "id": "w617",
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "sinoVietnamese": "Tố",
+      "vietnamese": "Làm"
+    },
+    {
+      "id": "w618",
+      "hanzi": "家常菜",
+      "pinyin": "jiā cháng cài",
+      "sinoVietnamese": "Gia thường thái",
+      "vietnamese": "Món ăn gia đình"
+    },
+    {
+      "id": "w619",
+      "hanzi": "好吃",
+      "pinyin": "hǎo chī",
+      "sinoVietnamese": "Hảo cật",
+      "vietnamese": "Ngon"
+    },
+    {
+      "id": "w620",
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "sinoVietnamese": "Khẩn",
+      "vietnamese": "Rất"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "g61",
+      "title": "Đại từ chỉ thị 这 / 那",
+      "htmlContent": "<h3>1. Cấu trúc: 这 (cái này) / 那 (cái kia) + Lượng từ + Danh từ</h3><p>Dùng để chỉ đích danh một người hoặc một sự vật cụ thể nào đó. <strong>Lưu ý:</strong> Bắt buộc phải có Lượng từ (个, 本...) đứng ở giữa đại từ chỉ thị và danh từ.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 这个汉字 (zhè ge hàn zì): Chữ Hán này.<br/>- 那个人 (nà ge rén): Người kia.</div>"
+    },
+    {
+      "id": "g62",
+      "title": "Đại từ nghi vấn 怎么",
+      "htmlContent": "<h3>2. Cấu trúc: 怎么 + Động từ (V)</h3><p>Dùng để hỏi về phương thức, cách thức tiến hành của một hành động (Làm việc gì đó như thế nào?).</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 怎么读？ (zěn me dú): Đọc như thế nào?<br/>- 这个菜怎么做？ (zhè ge cài zěn me zuò): Món ăn này làm thế nào?</div>"
+    },
+    {
+      "id": "g63",
+      "title": "So sánh 汉语 và 中文",
+      "htmlContent": "<h3>3. Phân biệt 汉语 (Hànyǔ) và 中文 (Zhōngwén)</h3><p>Cả hai đều có nghĩa là Tiếng Trung, nhưng phạm vi sử dụng có chút khác biệt:</p><div class=\"example\">- <strong>汉语 (Hán ngữ)</strong>: Thường chỉ ngôn ngữ nói chung, đặc biệt nhấn mạnh vào <em>khẩu ngữ (nghe, nói)</em>.<br/>- <strong>中文 (Trung văn)</strong>: Nhấn mạnh vào <em>văn tự, chữ viết (đọc, viết)</em> hoặc ngành học thuật.</div>"
+    },
+    {
+      "id": "g64",
+      "title": "Nhận diện mặt chữ Hán dễ nhầm lẫn",
+      "htmlContent": "<h3>4. Các chữ Hán có nét tương đồng</h3><p>Cần chú ý kĩ các nét để tránh viết sai hoặc đọc nhầm các chữ sau:</p><div class=\"example\">- <strong>读 (dú - Đọc)</strong>: Có bộ Ngôn (讠) bên trái.<br/>- <strong>买 (mǎi - Mua)</strong>: Thiếu bộ Thập (十) ở trên đầu so với chữ Mại (Bán).<br/>- <strong>卖 (mài - Bán)</strong>: Có bộ Thập (十) ở trên đầu (Nhớ mẹo: Có đồ đặt lên đầu để đem đi bán).<br/>- <strong>头 (tóu - Đầu)</strong>: Hai nét chấm (丷) thay vì nét ngang.</div>"
+    }
+  ]
+}

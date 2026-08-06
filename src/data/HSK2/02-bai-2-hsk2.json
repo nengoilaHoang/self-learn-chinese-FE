@@ -1,0 +1,174 @@
+{
+  "id": "l17",
+  "entryId": "hsk-2/02-bai-2-hsk2",
+  "slug": "bai-2-hsk2",
+  "order": 2,
+  "title": "Bài 2 HSK2",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l2-w01",
+      "hanzi": "生病",
+      "pinyin": "shēngbìng",
+      "sinoVietnamese": "",
+      "vietnamese": "Sinh bệnh, bị bệnh"
+    },
+    {
+      "id": "hsk2-l2-w02",
+      "hanzi": "每",
+      "pinyin": "měi",
+      "sinoVietnamese": "",
+      "vietnamese": "Mỗi"
+    },
+    {
+      "id": "hsk2-l2-w03",
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "sinoVietnamese": "",
+      "vietnamese": "Miếng, cục; lượng từ dùng cho tiền"
+    },
+    {
+      "id": "hsk2-l2-w04",
+      "hanzi": "快",
+      "pinyin": "kuài",
+      "sinoVietnamese": "",
+      "vietnamese": "Nhanh; chữ có bộ tâm đứng 忄"
+    },
+    {
+      "id": "hsk2-l2-w05",
+      "hanzi": "跑步",
+      "pinyin": "pǎobù",
+      "sinoVietnamese": "",
+      "vietnamese": "Chạy bộ"
+    },
+    {
+      "id": "hsk2-l2-w06",
+      "hanzi": "让步",
+      "pinyin": "ràngbù",
+      "sinoVietnamese": "",
+      "vietnamese": "Nhượng bộ"
+    },
+    {
+      "id": "hsk2-l2-w07",
+      "hanzi": "起床",
+      "pinyin": "qǐchuáng",
+      "sinoVietnamese": "",
+      "vietnamese": "Thức dậy, ra khỏi giường"
+    },
+    {
+      "id": "hsk2-l2-w08",
+      "hanzi": "药",
+      "pinyin": "yào",
+      "sinoVietnamese": "",
+      "vietnamese": "Thuốc"
+    },
+    {
+      "id": "hsk2-l2-w09",
+      "hanzi": "开药",
+      "pinyin": "kāiyào",
+      "sinoVietnamese": "",
+      "vietnamese": "Kê thuốc"
+    },
+    {
+      "id": "hsk2-l2-w10",
+      "hanzi": "出院",
+      "pinyin": "chūyuàn",
+      "sinoVietnamese": "",
+      "vietnamese": "Xuất viện"
+    },
+    {
+      "id": "hsk2-l2-w11",
+      "hanzi": "休息",
+      "pinyin": "xiūxi",
+      "sinoVietnamese": "",
+      "vietnamese": "Nghỉ ngơi"
+    },
+    {
+      "id": "hsk2-l2-w12",
+      "hanzi": "让",
+      "pinyin": "ràng",
+      "sinoVietnamese": "",
+      "vietnamese": "Nhường, để, cho phép, khiến"
+    },
+    {
+      "id": "hsk2-l2-w13",
+      "hanzi": "更",
+      "pinyin": "gèng",
+      "sinoVietnamese": "",
+      "vietnamese": "Hơn, càng hơn"
+    },
+    {
+      "id": "hsk2-l2-w14",
+      "hanzi": "件",
+      "pinyin": "jiàn",
+      "sinoVietnamese": "",
+      "vietnamese": "Lượng từ dùng cho quần áo, đồ vật hoặc sự việc"
+    },
+    {
+      "id": "hsk2-l2-w15",
+      "hanzi": "容易",
+      "pinyin": "róngyì",
+      "sinoVietnamese": "",
+      "vietnamese": "Dễ, dễ dàng"
+    },
+    {
+      "id": "hsk2-l2-w16",
+      "hanzi": "父母",
+      "pinyin": "fùmǔ",
+      "sinoVietnamese": "",
+      "vietnamese": "Cha mẹ"
+    },
+    {
+      "id": "hsk2-l2-w17",
+      "hanzi": "最近",
+      "pinyin": "zuìjìn",
+      "sinoVietnamese": "",
+      "vietnamese": "Gần đây, dùng để chỉ thời gian"
+    },
+    {
+      "id": "hsk2-l2-w18",
+      "hanzi": "附近",
+      "pinyin": "fùjìn",
+      "sinoVietnamese": "",
+      "vietnamese": "Gần đây, khu vực lân cận; dùng để chỉ địa điểm"
+    },
+    {
+      "id": "hsk2-l2-w19",
+      "hanzi": "所以",
+      "pinyin": "suǒyǐ",
+      "sinoVietnamese": "",
+      "vietnamese": "Vì vậy, cho nên"
+    },
+    {
+      "id": "hsk2-l2-w20",
+      "hanzi": "这样",
+      "pinyin": "zhèyàng",
+      "sinoVietnamese": "",
+      "vietnamese": "Như vậy, thế này"
+    },
+    {
+      "id": "hsk2-l2-w21",
+      "hanzi": "忙于",
+      "pinyin": "mángyú",
+      "sinoVietnamese": "",
+      "vietnamese": "Bận làm hoặc bận với việc gì đó"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l2-g01",
+      "title": "Cách dùng 忙于",
+      "htmlContent": "<h3>1. 忙于 (mángyú)</h3><p>Dùng để nói một người đang bận làm hoặc bận với một công việc, hoạt động nào đó.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 忙于工作: Bận làm việc.<br/>- 忙于学习: Bận học.</div>"
+    },
+    {
+      "id": "hsk2-l2-g02",
+      "title": "多 + tính từ",
+      "htmlContent": "<h3>2. 多 + Tính từ</h3><p>Dùng để hỏi về mức độ hoặc đặc điểm của người, sự vật.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 多大？: Bao nhiêu tuổi? To mức nào?<br/>- 多高？: Cao bao nhiêu?</div>"
+    }
+  ]
+}

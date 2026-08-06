@@ -1,0 +1,99 @@
+{
+  "id": "l10",
+  "entryId": "hsk-1/10-minh-co-the-ngoi-duoc-khong",
+  "slug": "minh-co-the-ngoi-duoc-khong",
+  "order": 10,
+  "title": "Bài 10: Mình có thể ngồi được không",
+  "course": {
+    "id": "c1",
+    "slug": "hsk-1",
+    "name": "HSK 1",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "w1001",
+      "hanzi": "电脑",
+      "pinyin": "diànnǎo",
+      "sinoVietnamese": "Điện não",
+      "vietnamese": "Máy tính bàn"
+    },
+    {
+      "id": "w1002",
+      "hanzi": "台",
+      "pinyin": "tái",
+      "sinoVietnamese": "Đài",
+      "vietnamese": "Lượng từ dùng cho máy tính (VD: 一台电脑 - 1 cái máy tính)"
+    },
+    {
+      "id": "w1003",
+      "hanzi": "笔记本",
+      "pinyin": "bǐjìběn",
+      "sinoVietnamese": "Bút ký bản",
+      "vietnamese": "Laptop"
+    },
+    {
+      "id": "w1004",
+      "hanzi": "谁",
+      "pinyin": "shéi",
+      "sinoVietnamese": "Thùy",
+      "vietnamese": "Ai"
+    },
+    {
+      "id": "w1005",
+      "hanzi": "里面",
+      "pinyin": "lǐmiàn",
+      "sinoVietnamese": "Lý diện",
+      "vietnamese": "Bên trong"
+    },
+    {
+      "id": "w1006",
+      "hanzi": "外面",
+      "pinyin": "wàimiàn",
+      "sinoVietnamese": "Ngoại diện",
+      "vietnamese": "Bên ngoài"
+    },
+    {
+      "id": "w1007",
+      "hanzi": "前面",
+      "pinyin": "qiánmiàn",
+      "sinoVietnamese": "Tiền diện",
+      "vietnamese": "Phía trước"
+    },
+    {
+      "id": "w1008",
+      "hanzi": "后面",
+      "pinyin": "hòumiàn",
+      "sinoVietnamese": "Hậu diện",
+      "vietnamese": "Phía sau"
+    },
+    {
+      "id": "w1009",
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "sinoVietnamese": "Tọa",
+      "vietnamese": "Ngồi"
+    },
+    {
+      "id": "w1010",
+      "hanzi": "能",
+      "pinyin": "néng",
+      "sinoVietnamese": "Năng",
+      "vietnamese": "Có thể (chỉ khả năng, năng lực)"
+    },
+    {
+      "id": "w1011",
+      "hanzi": "可以",
+      "pinyin": "kěyǐ",
+      "sinoVietnamese": "Khả dĩ",
+      "vietnamese": "Có thể (chỉ sự xin phép, được phép)"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "g101",
+      "title": "Cấu trúc 没有哪... (Không có... nào)",
+      "htmlContent": "<h3>1. 没有哪... (Không có... nào)</h3><p><strong>Công thức:</strong> 没有 + 哪 + Lượng từ + Danh từ</p><div class=\"example\">- <strong>桌子上没有哪本书。</strong><br/>(Zhuōzi shang méiyǒu nǎ běn shū.)<br/>Trên bàn không có cuốn sách nào.</div>"
+    }
+  ]
+}

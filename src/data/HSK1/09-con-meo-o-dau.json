@@ -1,0 +1,203 @@
+{
+  "id": "l9",
+  "entryId": "hsk-1/09-con-meo-o-dau",
+  "slug": "con-meo-o-dau",
+  "order": 9,
+  "title": "Bài 9: Con mèo ở đâu?",
+  "course": {
+    "id": "c1",
+    "slug": "hsk-1",
+    "name": "HSK 1",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "w901",
+      "hanzi": "那",
+      "pinyin": "nà",
+      "sinoVietnamese": "Na / Ná",
+      "vietnamese": "Kia, đó"
+    },
+    {
+      "id": "w902",
+      "hanzi": "那儿",
+      "pinyin": "nàr",
+      "sinoVietnamese": "Na nhi",
+      "vietnamese": "Chỗ kia, ở đó"
+    },
+    {
+      "id": "w903",
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "sinoVietnamese": "Na / Nả",
+      "vietnamese": "Cái nào / nào? (Dùng để hỏi)"
+    },
+    {
+      "id": "w904",
+      "hanzi": "哪个",
+      "pinyin": "nǎ ge",
+      "sinoVietnamese": "Na cá",
+      "vietnamese": "Cái nào?"
+    },
+    {
+      "id": "w905",
+      "hanzi": "哪儿",
+      "pinyin": "nǎr",
+      "sinoVietnamese": "Na nhi",
+      "vietnamese": "Ở đâu? (Dùng để hỏi)"
+    },
+    {
+      "id": "w906",
+      "hanzi": "哪里",
+      "pinyin": "nǎlǐ",
+      "sinoVietnamese": "Na lý",
+      "vietnamese": "Ở đâu? (Dùng để hỏi)"
+    },
+    {
+      "id": "w907",
+      "hanzi": "这儿",
+      "pinyin": "zhèr",
+      "sinoVietnamese": "Giá nhi",
+      "vietnamese": "Chỗ này, ở đây"
+    },
+    {
+      "id": "w908",
+      "hanzi": "这里",
+      "pinyin": "zhèlǐ",
+      "sinoVietnamese": "Giá lý",
+      "vietnamese": "Chỗ này, ở đây"
+    },
+    {
+      "id": "w909",
+      "hanzi": "在",
+      "pinyin": "zài",
+      "sinoVietnamese": "Tại",
+      "vietnamese": "Ở / Đang"
+    },
+    {
+      "id": "w910",
+      "hanzi": "会",
+      "pinyin": "huì",
+      "sinoVietnamese": "Hội",
+      "vietnamese": "Biết (qua học tập) / Sẽ"
+    },
+    {
+      "id": "w911",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "sinoVietnamese": "Thượng",
+      "vietnamese": "Lên (Động từ)"
+    },
+    {
+      "id": "w912",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "sinoVietnamese": "Hạ",
+      "vietnamese": "Xuống (Động từ)"
+    },
+    {
+      "id": "w913",
+      "hanzi": "上面",
+      "pinyin": "shàngmiàn",
+      "sinoVietnamese": "Thượng diện",
+      "vietnamese": "Phía trên"
+    },
+    {
+      "id": "w914",
+      "hanzi": "下面",
+      "pinyin": "xiàmiàn",
+      "sinoVietnamese": "Hạ diện",
+      "vietnamese": "Phía dưới"
+    },
+    {
+      "id": "w915",
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "sinoVietnamese": "Cẩu",
+      "vietnamese": "Chó"
+    },
+    {
+      "id": "w916",
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "sinoVietnamese": "Miêu",
+      "vietnamese": "Mèo"
+    },
+    {
+      "id": "w917",
+      "hanzi": "只",
+      "pinyin": "zhī",
+      "sinoVietnamese": "Chích",
+      "vietnamese": "Con (Lượng từ cho động vật)"
+    },
+    {
+      "id": "w918",
+      "hanzi": "椅子",
+      "pinyin": "yǐzi",
+      "sinoVietnamese": "Ỷ tử",
+      "vietnamese": "Ghế dựa"
+    },
+    {
+      "id": "w919",
+      "hanzi": "把",
+      "pinyin": "bǎ",
+      "sinoVietnamese": "Bả",
+      "vietnamese": "Cái (Lượng từ của ghế)"
+    },
+    {
+      "id": "w920",
+      "hanzi": "桌子",
+      "pinyin": "zhuōzi",
+      "sinoVietnamese": "Trác tử",
+      "vietnamese": "Bàn"
+    },
+    {
+      "id": "w921",
+      "hanzi": "张",
+      "pinyin": "zhāng",
+      "sinoVietnamese": "Trương",
+      "vietnamese": "Cái, tờ (Lượng từ của bàn, giấy)"
+    },
+    {
+      "id": "w922",
+      "hanzi": "医院",
+      "pinyin": "yīyuàn",
+      "sinoVietnamese": "Y viện",
+      "vietnamese": "Bệnh viện"
+    },
+    {
+      "id": "w923",
+      "hanzi": "医生",
+      "pinyin": "yīsheng",
+      "sinoVietnamese": "Y sinh",
+      "vietnamese": "Bác sĩ"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "g91",
+      "title": "Cách dùng Lượng từ trong tiếng Trung",
+      "htmlContent": "<h3>1. Cách dùng Lượng từ cho con vật và đồ vật</h3><p>Mỗi loại danh từ trong tiếng Trung thường đi kèm với các lượng từ đặc trưng:</p><div class=\"example\">- <strong>只 (zhī)</strong>: Lượng từ dành cho động vật (chó, mèo...).<br/>- <strong>把 (bǎ)</strong>: Lượng từ dùng cho danh từ có tay cầm, chuôi hoặc chỗ bám (cái ghế, con dao, cái ô...).<br/>- <strong>张 (zhāng)</strong>: Lượng từ dùng cho vật có bề mặt phẳng, mỏng & rộng (cái bàn, tờ giấy, chiếc giường...).</div>"
+    },
+    {
+      "id": "g92",
+      "title": "Mẹo nhớ mặt chữ Hán qua bộ thủ",
+      "htmlContent": "<h3>2. Mẹo nhớ mặt chữ Hán</h3><p>Ghi nhớ chữ Hán thông qua ý nghĩa của các bộ thủ cấu tạo nên chữ:</p><div class=\"example\">- <strong>狗 (Chó) & 猫 (Mèo)</strong>: Đều có chứa <strong>Bộ Khuyển (犭)</strong> liên quan đến động vật, thú bốn chân.<br/>- <strong>椅子 (Ghế)</strong>: Có chứa <strong>Bộ Mộc (木)</strong> vì ghế dựa truyền thống thường làm bằng gỗ.<br/>- <strong>桌子 (Bàn)</strong>: Cách cấu tạo chữ gợi ý: Bàn dùng búa đóng từ gỗ <strong>木</strong> phía dưới ánh nắng mặt trời <strong>日</strong>.</div>"
+    },
+    {
+      "id": "g93",
+      "title": "Cấu trúc hỏi và nói về địa điểm hành động",
+      "htmlContent": "<h3>3. Cấu trúc hỏi/nói về địa điểm hành động (Ở đâu + làm gì?)</h3><p>Trong tiếng Trung, trạng ngữ chỉ nơi chốn <strong>luôn phải đứng trước hành động</strong>, ngược lại so với tiếng Việt.</p><div class=\"example\"><strong>Cấu trúc: S + 在 + Địa điểm + Động từ</strong><br/>- 你儿子<strong>在哪儿工作</strong>？ (Con trai anh làm việc ở đâu?)<br/>- 我**在医院工作**。 (Tôi làm việc ở bệnh viện.)</div>"
+    },
+    {
+      "id": "g94",
+      "title": "Cấu trúc định vị vị trí phương hướng",
+      "htmlContent": "<h3>4. Cấu trúc định vị vị trí (Ở đâu đó)</h3><p>Dùng để diễn tả một người hoặc vật đang ở một vị trí cụ thể nào đó.</p><div class=\"example\"><strong>Cấu trúc 1</strong>: S + 在 + Nơi chốn/Danh từ + Phương hướng<br/><strong>Cấu trúc 2 (Vật nằm trên/dưới vật khác)</strong>: S + 在 + Danh từ + 上/下 (hoặc 上面/下面)<br/><br/>- 猫<strong>在椅子下面</strong>。 (Con mèo ở dưới cái ghế.)<br/>- 电脑**在桌子上**。 (Máy tính ở trên bàn.)</div>"
+    },
+    {
+      "id": "g95",
+      "title": "Cách dùng 上 và 下 trong thời gian",
+      "htmlContent": "<h3>5. Cách dùng 上 (Trước) và 下 (Sau) trong thời gian</h3><p>Khi nói về mốc thời gian tuần hoặc tháng, <strong>上</strong> mang nghĩa là 'trước' (quá khứ) và <strong>下</strong> mang nghĩa là 'sau' (tương lai):</p><div class=\"example\">- <strong>上个月 (shàng gè yuè)</strong>: Tháng trước<br/>- <strong>下个月 (xià gè yuè)</strong>: Tháng sau<br/>- <strong>上个星期 (shàng gè xīngqī)</strong>: Tuần trước<br/>- <strong>下个星期 (xià gè xīngqī)</strong>: Tuần sau</div>"
+    }
+  ]
+}

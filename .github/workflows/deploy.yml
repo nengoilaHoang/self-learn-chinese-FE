@@ -28,8 +28,8 @@ jobs:
       with:
         host: ${{ secrets.SERVER_IP }}
         username: root
-        password: ${{ secrets.SERVER_SSH_KEY }}
+        key: ${{ secrets.SERVER_SSH_KEY }}
         source: "dist/*"                                 # Đẩy toàn bộ file trong dist
-        target: "/var/www/SelfLearnChineseFE"            # Thư mục đích trên server Linux
+        target: "/hostweb/self-learn-chinese"          # Thư mục đích trên server Linux
         strip_components: 1                              # Bỏ qua việc tạo thêm thư mục 'dist/' trên server
         rm: true

@@ -1,0 +1,212 @@
+{
+  "id": "l12",
+  "entryId": "hsk-1/12-bai-12",
+  "slug": "bai-12",
+  "order": 12,
+  "title": "Bài 12",
+  "course": {
+    "id": "c1",
+    "slug": "hsk-1",
+    "name": "HSK 1",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk1-l12-w01",
+      "hanzi": "天气",
+      "pinyin": "tiānqì",
+      "sinoVietnamese": "",
+      "vietnamese": "Thời tiết"
+    },
+    {
+      "id": "hsk1-l12-w02",
+      "hanzi": "热",
+      "pinyin": "rè",
+      "sinoVietnamese": "",
+      "vietnamese": "Nóng"
+    },
+    {
+      "id": "hsk1-l12-w03",
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "sinoVietnamese": "",
+      "vietnamese": "Lạnh"
+    },
+    {
+      "id": "hsk1-l12-w04",
+      "hanzi": "下雨",
+      "pinyin": "xiàyǔ",
+      "sinoVietnamese": "",
+      "vietnamese": "Mưa, trời mưa; là động từ ly hợp"
+    },
+    {
+      "id": "hsk1-l12-w05",
+      "hanzi": "下大雨",
+      "pinyin": "xià dàyǔ",
+      "sinoVietnamese": "",
+      "vietnamese": "Mưa to"
+    },
+    {
+      "id": "hsk1-l12-w06",
+      "hanzi": "怎么样",
+      "pinyin": "zěnmeyàng",
+      "sinoVietnamese": "",
+      "vietnamese": "Như thế nào, ra sao"
+    },
+    {
+      "id": "hsk1-l12-w07",
+      "hanzi": "小姐",
+      "pinyin": "xiǎojiě",
+      "sinoVietnamese": "",
+      "vietnamese": "Quý cô, cô gái; không nên dùng tùy tiện trong giao tiếp đời thường"
+    },
+    {
+      "id": "hsk1-l12-w08",
+      "hanzi": "小姐姐",
+      "pinyin": "xiǎojiějie",
+      "sinoVietnamese": "",
+      "vietnamese": "Cách gọi cô gái trẻ thân thiện hơn"
+    },
+    {
+      "id": "hsk1-l12-w09",
+      "hanzi": "觉得",
+      "pinyin": "juéde",
+      "sinoVietnamese": "",
+      "vietnamese": "Cảm thấy"
+    },
+    {
+      "id": "hsk1-l12-w10",
+      "hanzi": "太",
+      "pinyin": "tài",
+      "sinoVietnamese": "",
+      "vietnamese": "Quá, lắm; phó từ đứng trước động từ hoặc tính từ"
+    },
+    {
+      "id": "hsk1-l12-w11",
+      "hanzi": "最近",
+      "pinyin": "zuìjìn",
+      "sinoVietnamese": "",
+      "vietnamese": "Gần đây, thời gian gần đây"
+    },
+    {
+      "id": "hsk1-l12-w12",
+      "hanzi": "来",
+      "pinyin": "lái",
+      "sinoVietnamese": "",
+      "vietnamese": "Đến; di chuyển về phía vị trí của người nói"
+    },
+    {
+      "id": "hsk1-l12-w13",
+      "hanzi": "身体",
+      "pinyin": "shēntǐ",
+      "sinoVietnamese": "",
+      "vietnamese": "Sức khỏe, cơ thể"
+    },
+    {
+      "id": "hsk1-l12-w14",
+      "hanzi": "身",
+      "pinyin": "shēn",
+      "sinoVietnamese": "",
+      "vietnamese": "Thân; thường chỉ phần thân mình"
+    },
+    {
+      "id": "hsk1-l12-w15",
+      "hanzi": "体",
+      "pinyin": "tǐ",
+      "sinoVietnamese": "",
+      "vietnamese": "Thể; hình thể, thể chất nói chung"
+    },
+    {
+      "id": "hsk1-l12-w16",
+      "hanzi": "单身",
+      "pinyin": "dānshēn",
+      "sinoVietnamese": "",
+      "vietnamese": "Độc thân"
+    },
+    {
+      "id": "hsk1-l12-w17",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "sinoVietnamese": "",
+      "vietnamese": "Đi; di chuyển rời xa vị trí hiện tại của người nói"
+    },
+    {
+      "id": "hsk1-l12-w18",
+      "hanzi": "回",
+      "pinyin": "huí",
+      "sinoVietnamese": "",
+      "vietnamese": "Về, trở về, quay lại vị trí ban đầu hoặc nơi thân thuộc"
+    },
+    {
+      "id": "hsk1-l12-w19",
+      "hanzi": "还",
+      "pinyin": "hái",
+      "sinoVietnamese": "",
+      "vietnamese": "Vẫn, vẫn còn"
+    },
+    {
+      "id": "hsk1-l12-w20",
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "sinoVietnamese": "",
+      "vietnamese": "Yêu, thích"
+    },
+    {
+      "id": "hsk1-l12-w21",
+      "hanzi": "些",
+      "pinyin": "xiē",
+      "sinoVietnamese": "",
+      "vietnamese": "Một ít, một vài; số lượng mơ hồ, không cụ thể"
+    },
+    {
+      "id": "hsk1-l12-w22",
+      "hanzi": "这些",
+      "pinyin": "zhèxiē",
+      "sinoVietnamese": "",
+      "vietnamese": "Những thứ này, những ... này"
+    },
+    {
+      "id": "hsk1-l12-w23",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "sinoVietnamese": "",
+      "vietnamese": "Nước"
+    },
+    {
+      "id": "hsk1-l12-w24",
+      "hanzi": "水果",
+      "pinyin": "shuǐguǒ",
+      "sinoVietnamese": "",
+      "vietnamese": "Trái cây"
+    },
+    {
+      "id": "hsk1-l12-w25",
+      "hanzi": "太太",
+      "pinyin": "tàitai",
+      "sinoVietnamese": "",
+      "vietnamese": "Bà xã"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk1-l12-g01",
+      "title": "Vị trí của mốc thời gian và thời lượng",
+      "htmlContent": "<h3>1. Mốc thời gian và thời lượng</h3><p><strong>Mốc thời gian</strong> thường được đưa lên đầu câu. <strong>Thời lượng</strong>, tức làm việc gì trong bao lâu, đứng sau động từ.</p>"
+    },
+    {
+      "id": "hsk1-l12-g02",
+      "title": "Động từ ly hợp 下雨",
+      "htmlContent": "<h3>2. 下雨 là động từ ly hợp</h3><p>下雨 có thể tách ra để chèn thành phần khác vào giữa.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 下雨: Trời mưa.<br/>- 下大雨: Trời mưa to.</div>"
+    },
+    {
+      "id": "hsk1-l12-g03",
+      "title": "Phân biệt 来, 去 và 回",
+      "htmlContent": "<h3>3. 来, 去 và 回</h3><div class=\"example\">- <strong>来</strong>: Di chuyển từ nơi khác về phía người nói.<br/>- <strong>去</strong>: Di chuyển rời xa vị trí hiện tại của người nói.<br/>- <strong>回</strong>: Trở lại vị trí ban đầu hoặc nơi thân thuộc như nhà, quê hương, đất nước, trường học hay công ty cũ.</div>"
+    },
+    {
+      "id": "hsk1-l12-g04",
+      "title": "多 / 少 + động từ",
+      "htmlContent": "<h3>4. 多 / 少 + Động từ</h3><p>Dùng 多 hoặc 少 trước động từ để khuyên làm nhiều hơn hoặc ít hơn.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 多吃水果: Ăn nhiều trái cây.<br/>- 多喝水: Uống nhiều nước.</div>"
+    }
+  ]
+}
