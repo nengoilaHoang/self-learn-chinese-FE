@@ -1,0 +1,130 @@
+{
+  "id": "l19",
+  "entryId": "hsk-2/04-bai-4-hsk2",
+  "slug": "bai-4-hsk2",
+  "order": 4,
+  "title": "Bài 4 HSK2",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l4-w01",
+      "hanzi": "快乐",
+      "pinyin": "kuàilè",
+      "sinoVietnamese": "",
+      "vietnamese": "vui vẻ"
+    },
+    {
+      "id": "hsk2-l4-w02",
+      "hanzi": "祝",
+      "pinyin": "zhù",
+      "sinoVietnamese": "",
+      "vietnamese": "chúc"
+    },
+    {
+      "id": "hsk2-l4-w03",
+      "hanzi": "挂",
+      "pinyin": "guà",
+      "sinoVietnamese": "",
+      "vietnamese": "treo; cúp máy"
+    },
+    {
+      "id": "hsk2-l4-w04",
+      "hanzi": "接",
+      "pinyin": "jiē",
+      "sinoVietnamese": "",
+      "vietnamese": "nhận; nghe; đón; bắt"
+    },
+    {
+      "id": "hsk2-l4-w05",
+      "hanzi": "问",
+      "pinyin": "wèn",
+      "sinoVietnamese": "",
+      "vietnamese": "hỏi"
+    },
+    {
+      "id": "hsk2-l4-w06",
+      "hanzi": "非常",
+      "pinyin": "fēicháng",
+      "sinoVietnamese": "",
+      "vietnamese": "rất; vô cùng"
+    },
+    {
+      "id": "hsk2-l4-w07",
+      "hanzi": "常常",
+      "pinyin": "chángcháng",
+      "sinoVietnamese": "",
+      "vietnamese": "thường; thường xuyên"
+    },
+    {
+      "id": "hsk2-l4-w08",
+      "hanzi": "开始",
+      "pinyin": "kāishǐ",
+      "sinoVietnamese": "",
+      "vietnamese": "bắt đầu"
+    },
+    {
+      "id": "hsk2-l4-w09",
+      "hanzi": "帮",
+      "pinyin": "bāng",
+      "sinoVietnamese": "",
+      "vietnamese": "giúp"
+    },
+    {
+      "id": "hsk2-l4-w10",
+      "hanzi": "已经",
+      "pinyin": "yǐjīng",
+      "sinoVietnamese": "",
+      "vietnamese": "đã"
+    },
+    {
+      "id": "hsk2-l4-w11",
+      "hanzi": "介绍",
+      "pinyin": "jièshào",
+      "sinoVietnamese": "",
+      "vietnamese": "giới thiệu"
+    },
+    {
+      "id": "hsk2-l4-w12",
+      "hanzi": "长",
+      "pinyin": "cháng",
+      "sinoVietnamese": "",
+      "vietnamese": "dài"
+    },
+    {
+      "id": "hsk2-l4-w13",
+      "hanzi": "短",
+      "pinyin": "duǎn",
+      "sinoVietnamese": "",
+      "vietnamese": "ngắn"
+    },
+    {
+      "id": "hsk2-l4-w14",
+      "hanzi": "长大",
+      "pinyin": "zhǎngdà",
+      "sinoVietnamese": "",
+      "vietnamese": "trưởng thành; lớn lên"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l4-g01",
+      "title": "V + 了 + thời lượng",
+      "htmlContent": "<h3>1. V + 了 + thời lượng</h3><p>Diễn tả hành động đã xảy ra và kéo dài trong một khoảng thời gian; không khẳng định hiện tại còn tiếp tục.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我学了两年汉语。<br/><em>Wǒ xué le liǎng nián Hànyǔ.</em><br/>Tôi đã học tiếng Trung hai năm.</div>"
+    },
+    {
+      "id": "hsk2-l4-g02",
+      "title": "V + 了 + thời lượng + 了",
+      "htmlContent": "<h3>2. V + 了 + thời lượng + 了</h3><p>Diễn tả hành động đã kéo dài trong khoảng thời gian đó và vẫn tiếp tục đến hiện tại.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我学了两年汉语了。<br/><em>Wǒ xué le liǎng nián Hànyǔ le.</em><br/>Tôi đã học tiếng Trung được hai năm rồi.</div>"
+    },
+    {
+      "id": "hsk2-l4-g03",
+      "title": "Ghi chú với 接",
+      "htmlContent": "<h3>3. Ghi chú với 接</h3><div class=\"example\"><strong>Ví dụ:</strong><br/>- 接电话 — nghe điện thoại<br/>- 接孩子 — đón con<br/>- 接球 — đón/bắt bóng</div>"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "l23",
+  "entryId": "hsk-2/08-bai-8-hsk2",
+  "slug": "bai-8-hsk2",
+  "order": 8,
+  "title": "Bài 8 HSK2",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l8-w01",
+      "hanzi": "告诉",
+      "pinyin": "gàosu",
+      "sinoVietnamese": "",
+      "vietnamese": "nói; nói cho biết; bảo"
+    },
+    {
+      "id": "hsk2-l8-w02",
+      "hanzi": "等",
+      "pinyin": "děng",
+      "sinoVietnamese": "",
+      "vietnamese": "đợi; chờ"
+    },
+    {
+      "id": "hsk2-l8-w03",
+      "hanzi": "让",
+      "pinyin": "ràng",
+      "sinoVietnamese": "",
+      "vietnamese": "để; khiến; bảo"
+    },
+    {
+      "id": "hsk2-l8-w04",
+      "hanzi": "再",
+      "pinyin": "zài",
+      "sinoVietnamese": "",
+      "vietnamese": "lại; thêm một lần nữa"
+    },
+    {
+      "id": "hsk2-l8-w05",
+      "hanzi": "找",
+      "pinyin": "zhǎo",
+      "sinoVietnamese": "",
+      "vietnamese": "tìm"
+    },
+    {
+      "id": "hsk2-l8-w06",
+      "hanzi": "找到",
+      "pinyin": "zhǎodào",
+      "sinoVietnamese": "",
+      "vietnamese": "tìm thấy"
+    },
+    {
+      "id": "hsk2-l8-w07",
+      "hanzi": "事情",
+      "pinyin": "shìqing",
+      "sinoVietnamese": "",
+      "vietnamese": "sự việc; chuyện"
+    },
+    {
+      "id": "hsk2-l8-w08",
+      "hanzi": "服务员",
+      "pinyin": "fúwùyuán",
+      "sinoVietnamese": "",
+      "vietnamese": "nhân viên phục vụ"
+    },
+    {
+      "id": "hsk2-l8-w09",
+      "hanzi": "贵",
+      "pinyin": "guì",
+      "sinoVietnamese": "",
+      "vietnamese": "đắt"
+    },
+    {
+      "id": "hsk2-l8-w10",
+      "hanzi": "便宜",
+      "pinyin": "piányi",
+      "sinoVietnamese": "",
+      "vietnamese": "rẻ"
+    },
+    {
+      "id": "hsk2-l8-w11",
+      "hanzi": "机场",
+      "pinyin": "jīchǎng",
+      "sinoVietnamese": "",
+      "vietnamese": "sân bay"
+    },
+    {
+      "id": "hsk2-l8-w12",
+      "hanzi": "路",
+      "pinyin": "lù",
+      "sinoVietnamese": "",
+      "vietnamese": "đường"
+    },
+    {
+      "id": "hsk2-l8-w13",
+      "hanzi": "通过",
+      "pinyin": "tōngguò",
+      "sinoVietnamese": "",
+      "vietnamese": "thông qua; đi qua"
+    },
+    {
+      "id": "hsk2-l8-w14",
+      "hanzi": "自己",
+      "pinyin": "zìjǐ",
+      "sinoVietnamese": "",
+      "vietnamese": "bản thân; tự mình"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l8-g01",
+      "title": "再 + động từ",
+      "htmlContent": "<h3>1. 再 + động từ</h3><p>Dùng cho hành động chưa xảy ra và sẽ được lặp lại sau đó.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 明天再来。 — Ngày mai lại đến nhé.</div>"
+    },
+    {
+      "id": "hsk2-l8-g02",
+      "title": "找 và 找到",
+      "htmlContent": "<h3>2. 找 và 找到</h3><p><strong>找</strong> nhấn mạnh quá trình tìm:</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我在找我的手机。 — Tôi đang tìm điện thoại.</div><p><strong>找到</strong> nhấn mạnh kết quả:</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我找到我的手机了。 — Tôi tìm thấy điện thoại rồi.</div>"
+    },
+    {
+      "id": "hsk2-l8-g03",
+      "title": "Động từ một âm tiết lặp lại: AA / A一A",
+      "htmlContent": "<h3>3. Động từ một âm tiết lặp lại: AA / A一A</h3><p>Diễn tả làm một chút, thử làm hoặc làm trong thời gian ngắn.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 看看 / 看一看 — xem một chút<br/>- 等等 / 等一等 — đợi một chút</div>"
+    },
+    {
+      "id": "hsk2-l8-g04",
+      "title": "Động từ hai âm tiết lặp lại: ABAB",
+      "htmlContent": "<h3>4. Động từ hai âm tiết lặp lại: ABAB</h3><div class=\"example\"><strong>Ví dụ:</strong><br/>- 介绍介绍 — giới thiệu một chút<br/>- 休息休息 — nghỉ ngơi một chút</div>"
+    },
+    {
+      "id": "hsk2-l8-g05",
+      "title": "AAB với một số động từ ly hợp",
+      "htmlContent": "<h3>5. AAB với một số động từ ly hợp</h3><p>Không phải tất cả động từ hai âm tiết đều dùng được.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 睡睡觉 — ngủ một chút</div>"
+    },
+    {
+      "id": "hsk2-l8-g06",
+      "title": "让 + người + động từ/tính từ",
+      "htmlContent": "<h3>6. 让 + người + động từ/tính từ</h3><p>Dùng với nghĩa khiến, để hoặc bảo ai làm gì.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 老师让我学习。 — Giáo viên bảo tôi học.<br/>- 这件事情让我很高兴。 — Chuyện này làm tôi rất vui.</div>"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "l20",
+  "entryId": "hsk-2/05-bai-5-hsk2",
+  "slug": "bai-5-hsk2",
+  "order": 5,
+  "title": "Bài 5 HSK2",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l5-w01",
+      "hanzi": "准备",
+      "pinyin": "zhǔnbèi",
+      "sinoVietnamese": "",
+      "vietnamese": "chuẩn bị"
+    },
+    {
+      "id": "hsk2-l5-w02",
+      "hanzi": "不错",
+      "pinyin": "búcuò",
+      "sinoVietnamese": "",
+      "vietnamese": "khá tốt; không tệ"
+    },
+    {
+      "id": "hsk2-l5-w03",
+      "hanzi": "就",
+      "pinyin": "jiù",
+      "sinoVietnamese": "",
+      "vietnamese": "thì; sẽ; liền; ngay"
+    },
+    {
+      "id": "hsk2-l5-w04",
+      "hanzi": "件",
+      "pinyin": "jiàn",
+      "sinoVietnamese": "",
+      "vietnamese": "lượng từ cho quần áo, đồ vật hoặc sự việc"
+    },
+    {
+      "id": "hsk2-l5-w05",
+      "hanzi": "还可以",
+      "pinyin": "hái kěyǐ",
+      "sinoVietnamese": "",
+      "vietnamese": "cũng được; tạm ổn"
+    },
+    {
+      "id": "hsk2-l5-w06",
+      "hanzi": "对……来说",
+      "pinyin": "duì...lái shuō",
+      "sinoVietnamese": "",
+      "vietnamese": "đối với... mà nói"
+    },
+    {
+      "id": "hsk2-l5-w07",
+      "hanzi": "考试",
+      "pinyin": "kǎoshì",
+      "sinoVietnamese": "",
+      "vietnamese": "kỳ thi; thi"
+    },
+    {
+      "id": "hsk2-l5-w08",
+      "hanzi": "意思",
+      "pinyin": "yìsi",
+      "sinoVietnamese": "",
+      "vietnamese": "ý nghĩa; ý"
+    },
+    {
+      "id": "hsk2-l5-w09",
+      "hanzi": "以后",
+      "pinyin": "yǐhòu",
+      "sinoVietnamese": "",
+      "vietnamese": "sau này; sau một thời điểm"
+    },
+    {
+      "id": "hsk2-l5-w10",
+      "hanzi": "后来",
+      "pinyin": "hòulái",
+      "sinoVietnamese": "",
+      "vietnamese": "sau đó; về sau"
+    },
+    {
+      "id": "hsk2-l5-w11",
+      "hanzi": "好好",
+      "pinyin": "hǎohāo",
+      "sinoVietnamese": "",
+      "vietnamese": "cho tốt; nghiêm túc; đàng hoàng"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l5-g01",
+      "title": "对 + người/sự vật + 来说",
+      "htmlContent": "<h3>1. 对 + người/sự vật + 来说</h3><p>Dùng để nêu góc nhìn hoặc quan điểm đối với một người hay sự việc.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 对我来说，汉语不难。<br/><em>Duì wǒ lái shuō, Hànyǔ bù nán.</em><br/>Đối với tôi, tiếng Trung không khó.</div>"
+    },
+    {
+      "id": "hsk2-l5-g02",
+      "title": "有点儿 + tính từ/động từ",
+      "htmlContent": "<h3>2. 有点儿 + tính từ/động từ</h3><p>Có nghĩa là “hơi, có một chút”, thường mang sắc thái không như mong muốn.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 有点儿累 — hơi mệt<br/>- 这件衣服有点儿贵。<br/><em>Zhè jiàn yīfu yǒudiǎnr guì.</em><br/>Bộ quần áo này hơi đắt.</div>"
+    },
+    {
+      "id": "hsk2-l5-g03",
+      "title": "Ghi chú với 好好",
+      "htmlContent": "<h3>3. Ghi chú với 好好</h3><div class=\"example\"><strong>Ví dụ:</strong><br/>- 好好学习 — học hành cho tốt<br/>- 好好休息 — nghỉ ngơi cho tốt</div>"
+    }
+  ]
+}

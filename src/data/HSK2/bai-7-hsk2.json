@@ -1,0 +1,187 @@
+{
+  "id": "l22",
+  "entryId": "hsk-2/07-bai-7-hsk2",
+  "slug": "bai-7-hsk2",
+  "order": 7,
+  "title": "Bài 7 HSK2",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l7-w01",
+      "hanzi": "近",
+      "pinyin": "jìn",
+      "sinoVietnamese": "",
+      "vietnamese": "gần"
+    },
+    {
+      "id": "hsk2-l7-w02",
+      "hanzi": "远",
+      "pinyin": "yuǎn",
+      "sinoVietnamese": "",
+      "vietnamese": "xa"
+    },
+    {
+      "id": "hsk2-l7-w03",
+      "hanzi": "离",
+      "pinyin": "lí",
+      "sinoVietnamese": "",
+      "vietnamese": "cách; cách xa"
+    },
+    {
+      "id": "hsk2-l7-w04",
+      "hanzi": "到",
+      "pinyin": "dào",
+      "sinoVietnamese": "",
+      "vietnamese": "đến"
+    },
+    {
+      "id": "hsk2-l7-w05",
+      "hanzi": "公司",
+      "pinyin": "gōngsī",
+      "sinoVietnamese": "",
+      "vietnamese": "công ty"
+    },
+    {
+      "id": "hsk2-l7-w06",
+      "hanzi": "公共汽车",
+      "pinyin": "gōnggòng qìchē",
+      "sinoVietnamese": "",
+      "vietnamese": "xe buýt; xe công cộng"
+    },
+    {
+      "id": "hsk2-l7-w07",
+      "hanzi": "火车",
+      "pinyin": "huǒchē",
+      "sinoVietnamese": "",
+      "vietnamese": "xe lửa; tàu hỏa"
+    },
+    {
+      "id": "hsk2-l7-w08",
+      "hanzi": "过",
+      "pinyin": "guò",
+      "sinoVietnamese": "",
+      "vietnamese": "qua; từng; đã từng"
+    },
+    {
+      "id": "hsk2-l7-w09",
+      "hanzi": "辆",
+      "pinyin": "liàng",
+      "sinoVietnamese": "",
+      "vietnamese": "lượng từ dùng cho xe cộ"
+    },
+    {
+      "id": "hsk2-l7-w10",
+      "hanzi": "走",
+      "pinyin": "zǒu",
+      "sinoVietnamese": "",
+      "vietnamese": "đi; đi bộ; rời đi"
+    },
+    {
+      "id": "hsk2-l7-w11",
+      "hanzi": "慢",
+      "pinyin": "màn",
+      "sinoVietnamese": "",
+      "vietnamese": "chậm"
+    },
+    {
+      "id": "hsk2-l7-w12",
+      "hanzi": "快",
+      "pinyin": "kuài",
+      "sinoVietnamese": "",
+      "vietnamese": "nhanh"
+    },
+    {
+      "id": "hsk2-l7-w13",
+      "hanzi": "帮助",
+      "pinyin": "bāngzhù",
+      "sinoVietnamese": "",
+      "vietnamese": "giúp đỡ"
+    },
+    {
+      "id": "hsk2-l7-w14",
+      "hanzi": "帮忙",
+      "pinyin": "bāngmáng",
+      "sinoVietnamese": "",
+      "vietnamese": "giúp một tay; giúp đỡ"
+    },
+    {
+      "id": "hsk2-l7-w15",
+      "hanzi": "穿",
+      "pinyin": "chuān",
+      "sinoVietnamese": "",
+      "vietnamese": "mặc"
+    },
+    {
+      "id": "hsk2-l7-w16",
+      "hanzi": "试一试",
+      "pinyin": "shì yí shì",
+      "sinoVietnamese": "",
+      "vietnamese": "thử một chút"
+    },
+    {
+      "id": "hsk2-l7-w17",
+      "hanzi": "就",
+      "pinyin": "jiù",
+      "sinoVietnamese": "",
+      "vietnamese": "liền; ngay; thì"
+    },
+    {
+      "id": "hsk2-l7-w18",
+      "hanzi": "从……到……",
+      "pinyin": "cóng...dào...",
+      "sinoVietnamese": "",
+      "vietnamese": "từ... đến..."
+    },
+    {
+      "id": "hsk2-l7-w19",
+      "hanzi": "公里",
+      "pinyin": "gōnglǐ",
+      "sinoVietnamese": "",
+      "vietnamese": "kilômét"
+    },
+    {
+      "id": "hsk2-l7-w20",
+      "hanzi": "一共",
+      "pinyin": "yígòng",
+      "sinoVietnamese": "",
+      "vietnamese": "tổng cộng"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l7-g01",
+      "title": "V + 过",
+      "htmlContent": "<h3>1. V + 过</h3><p>Diễn tả một kinh nghiệm hoặc việc đã từng trải qua trong quá khứ.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我去过中国。 — Tôi đã từng đi Trung Quốc.<br/>- 我坐过火车。 — Tôi đã từng đi tàu hỏa.</div>"
+    },
+    {
+      "id": "hsk2-l7-g02",
+      "title": "就……了",
+      "htmlContent": "<h3>2. 就……了</h3><p>Diễn tả việc xảy ra sớm, nhanh hoặc ngay sau một việc khác.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我下班以后就回家了。<br/><em>Wǒ xiàbān yǐhòu jiù huí jiā le.</em><br/>Sau khi tan làm tôi liền về nhà.</div>"
+    },
+    {
+      "id": "hsk2-l7-g03",
+      "title": "走 và 去",
+      "htmlContent": "<h3>3. 走 và 去</h3><p><strong>去</strong> có thể trực tiếp mang địa điểm phía sau:</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我去公司。 — Tôi đi đến công ty.</div><p><strong>走</strong> thường mang nghĩa đi, đi bộ hoặc rời đi:</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我们走吧。 — Chúng ta đi thôi.</div>"
+    },
+    {
+      "id": "hsk2-l7-g04",
+      "title": "一个多 + danh từ",
+      "htmlContent": "<h3>4. 一个多 + danh từ</h3><div class=\"example\"><strong>Ví dụ:</strong><br/>- 一个多小时 — hơn một tiếng<br/>- 一个多月 — hơn một tháng</div>"
+    },
+    {
+      "id": "hsk2-l7-g05",
+      "title": "离 + địa điểm + 远/近",
+      "htmlContent": "<h3>5. 离 + địa điểm + 远/近</h3><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我家离公司很近。 — Nhà tôi cách công ty rất gần.</div>"
+    },
+    {
+      "id": "hsk2-l7-g06",
+      "title": "从……到……",
+      "htmlContent": "<h3>6. 从……到……</h3><div class=\"example\"><strong>Ví dụ:</strong><br/>- 从我家到公司有五公里。 — Từ nhà tôi đến công ty có 5 km.</div>"
+    }
+  ]
+}

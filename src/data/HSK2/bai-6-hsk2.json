@@ -1,0 +1,135 @@
+{
+  "id": "l21",
+  "entryId": "hsk-2/06-bai-6-hsk2",
+  "slug": "bai-6-hsk2",
+  "order": 6,
+  "title": "Bài 6 HSK2",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l6-w01",
+      "hanzi": "自行车",
+      "pinyin": "zìxíngchē",
+      "sinoVietnamese": "",
+      "vietnamese": "xe đạp"
+    },
+    {
+      "id": "hsk2-l6-w02",
+      "hanzi": "银行",
+      "pinyin": "yínháng",
+      "sinoVietnamese": "",
+      "vietnamese": "ngân hàng"
+    },
+    {
+      "id": "hsk2-l6-w03",
+      "hanzi": "摩托车",
+      "pinyin": "mótuōchē",
+      "sinoVietnamese": "",
+      "vietnamese": "xe máy"
+    },
+    {
+      "id": "hsk2-l6-w04",
+      "hanzi": "骑",
+      "pinyin": "qí",
+      "sinoVietnamese": "",
+      "vietnamese": "đi; cưỡi"
+    },
+    {
+      "id": "hsk2-l6-w05",
+      "hanzi": "办公室",
+      "pinyin": "bàngōngshì",
+      "sinoVietnamese": "",
+      "vietnamese": "phòng làm việc; văn phòng"
+    },
+    {
+      "id": "hsk2-l6-w06",
+      "hanzi": "羊肉",
+      "pinyin": "yángròu",
+      "sinoVietnamese": "",
+      "vietnamese": "thịt dê; thịt cừu"
+    },
+    {
+      "id": "hsk2-l6-w07",
+      "hanzi": "鱼肉",
+      "pinyin": "yúròu",
+      "sinoVietnamese": "",
+      "vietnamese": "thịt cá"
+    },
+    {
+      "id": "hsk2-l6-w08",
+      "hanzi": "猪肉",
+      "pinyin": "zhūròu",
+      "sinoVietnamese": "",
+      "vietnamese": "thịt heo"
+    },
+    {
+      "id": "hsk2-l6-w09",
+      "hanzi": "牛肉",
+      "pinyin": "niúròu",
+      "sinoVietnamese": "",
+      "vietnamese": "thịt bò"
+    },
+    {
+      "id": "hsk2-l6-w10",
+      "hanzi": "游泳",
+      "pinyin": "yóuyǒng",
+      "sinoVietnamese": "",
+      "vietnamese": "bơi lội"
+    },
+    {
+      "id": "hsk2-l6-w11",
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "sinoVietnamese": "",
+      "vietnamese": "thường xuyên"
+    },
+    {
+      "id": "hsk2-l6-w12",
+      "hanzi": "称",
+      "pinyin": "chēng",
+      "sinoVietnamese": "",
+      "vietnamese": "cân; cân đo"
+    },
+    {
+      "id": "hsk2-l6-w13",
+      "hanzi": "公斤",
+      "pinyin": "gōngjīn",
+      "sinoVietnamese": "",
+      "vietnamese": "kilôgam"
+    },
+    {
+      "id": "hsk2-l6-w14",
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "sinoVietnamese": "",
+      "vietnamese": "cân Trung Quốc; 0,5 kg"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l6-g01",
+      "title": "Lượng từ lặp lại + 都",
+      "htmlContent": "<h3>1. Lượng từ lặp lại + 都</h3><p>Dùng để nhấn mạnh nghĩa “mọi, tất cả đều”.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 个个都很好。<br/><em>Gège dōu hěn hǎo.</em><br/>Ai/cái nào cũng rất tốt.<br/>- 件件都很漂亮。<br/><em>Jiànjiàn dōu hěn piàoliang.</em><br/>Món nào cũng rất đẹp.</div>"
+    },
+    {
+      "id": "hsk2-l6-g02",
+      "title": "经常 và 常常",
+      "htmlContent": "<h3>2. 经常 và 常常</h3><p><strong>经常</strong> thường nhấn mạnh thói quen hoặc hành động có tính đều đặn.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我经常去游泳。<br/><em>Wǒ jīngcháng qù yóuyǒng.</em><br/>Tôi thường xuyên đi bơi.</div><p><strong>常常</strong> thường nhấn mạnh hành động hoặc hiện tượng xảy ra nhiều lần.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 这里常常下雨。<br/><em>Zhèlǐ chángcháng xiàyǔ.</em><br/>Ở đây thường hay mưa.</div>"
+    },
+    {
+      "id": "hsk2-l6-g03",
+      "title": "Đơn vị cân nặng",
+      "htmlContent": "<h3>3. Đơn vị cân nặng</h3><div class=\"example\"><strong>Ví dụ:</strong><br/>- 1 公斤 = 2 斤<br/>- 1 斤 = 0,5 kg</div>"
+    },
+    {
+      "id": "hsk2-l6-g04",
+      "title": "怎么 + động từ",
+      "htmlContent": "<h3>4. 怎么 + động từ</h3><p>Dùng để hỏi cách thức, phương pháp.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 这个字怎么读？ — Chữ này đọc thế nào?<br/>- 你怎么去学校？ — Bạn đi đến trường bằng cách nào?</div>"
+    }
+  ]
+}
