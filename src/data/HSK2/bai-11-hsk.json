@@ -1,0 +1,67 @@
+{
+  "id": "l26",
+  "entryId": "hsk-2/11-bai-11-hsk2",
+  "slug": "bai-11-hsk2",
+  "order": 11,
+  "title": "Bài 11 HSK2",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l11-w01",
+      "hanzi": "洗",
+      "pinyin": "xǐ",
+      "sinoVietnamese": "",
+      "vietnamese": "rửa, giặt, tắm"
+    },
+    {
+      "id": "hsk2-l11-w02",
+      "hanzi": "教室",
+      "pinyin": "jiàoshì",
+      "sinoVietnamese": "",
+      "vietnamese": "phòng học, lớp học"
+    },
+    {
+      "id": "hsk2-l11-w03",
+      "hanzi": "说话",
+      "pinyin": "shuōhuà",
+      "sinoVietnamese": "",
+      "vietnamese": "nói chuyện"
+    },
+    {
+      "id": "hsk2-l11-w04",
+      "hanzi": "唱歌",
+      "pinyin": "chànggē",
+      "sinoVietnamese": "",
+      "vietnamese": "hát, ca hát"
+    },
+    {
+      "id": "hsk2-l11-w05",
+      "hanzi": "首",
+      "pinyin": "shǒu",
+      "sinoVietnamese": "",
+      "vietnamese": "bài (lượng từ dùng cho bài hát, bài thơ)"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l11-g01",
+      "title": "Động từ ly hợp",
+      "htmlContent": "<h3>1. Động từ ly hợp</h3><p>Là loại động từ mang theo tân ngữ. Ví dụ <strong>唱歌</strong>: 唱 (động từ - hát) và 歌 (tân ngữ - bài hát). Khi thêm số lượng hoặc thành phần bổ nghĩa, ta phải chèn vào giữa hai chữ này.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 唱一首歌。 — Hát một bài hát.</div>"
+    },
+    {
+      "id": "hsk2-l11-g02",
+      "title": "Câu so sánh hơn với 比",
+      "htmlContent": "<h3>2. A + 比 + B + Tính từ (+ Số lượng/Mức độ)</h3><p>Dùng để diễn tả đối tượng A có mức độ của tính từ cao hơn so với đối tượng B.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 哥哥比姐姐高。 — Anh trai cao hơn chị gái.<br/>- 西瓜比苹果贵两块钱。 — Dưa hấu đắt hơn táo hai tệ.</div>"
+    },
+    {
+      "id": "hsk2-l11-g03",
+      "title": "Câu so sánh không bằng với 没有",
+      "htmlContent": "<h3>3. A + 没有 + B + Tính từ</h3><p>Là dạng phủ định của câu so sánh, biểu thị đối tượng A không đạt được mức độ như đối tượng B.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 今天没有昨天热。 — Hôm nay không nóng bằng hôm qua.</div>"
+    }
+  ]
+}

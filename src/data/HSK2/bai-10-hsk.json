@@ -1,0 +1,109 @@
+{
+  "id": "l25",
+  "entryId": "hsk-2/10-bai-10-hsk2",
+  "slug": "bai-10-hsk2",
+  "order": 10,
+  "title": "Bài 10 HSK2",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l10-w01",
+      "hanzi": "别",
+      "pinyin": "bié",
+      "sinoVietnamese": "",
+      "vietnamese": "đừng, khác"
+    },
+    {
+      "id": "hsk2-l10-w02",
+      "hanzi": "课",
+      "pinyin": "kè",
+      "sinoVietnamese": "",
+      "vietnamese": "tiết học, môn học, bài học"
+    },
+    {
+      "id": "hsk2-l10-w03",
+      "hanzi": "帮助",
+      "pinyin": "bāngzhù",
+      "sinoVietnamese": "",
+      "vietnamese": "giúp đỡ, sự giúp đỡ, có ích"
+    },
+    {
+      "id": "hsk2-l10-w04",
+      "hanzi": "鸡蛋",
+      "pinyin": "jīdàn",
+      "sinoVietnamese": "",
+      "vietnamese": "trứng gà"
+    },
+    {
+      "id": "hsk2-l10-w05",
+      "hanzi": "西瓜",
+      "pinyin": "xīguā",
+      "sinoVietnamese": "",
+      "vietnamese": "dưa hấu"
+    },
+    {
+      "id": "hsk2-l10-w06",
+      "hanzi": "芒果",
+      "pinyin": "mángguǒ",
+      "sinoVietnamese": "",
+      "vietnamese": "xoài"
+    },
+    {
+      "id": "hsk2-l10-w07",
+      "hanzi": "草莓",
+      "pinyin": "cǎoméi",
+      "sinoVietnamese": "",
+      "vietnamese": "dâu tây"
+    },
+    {
+      "id": "hsk2-l10-w08",
+      "hanzi": "葡萄",
+      "pinyin": "pútao",
+      "sinoVietnamese": "",
+      "vietnamese": "nho"
+    },
+    {
+      "id": "hsk2-l10-w09",
+      "hanzi": "味道",
+      "pinyin": "wèidào",
+      "sinoVietnamese": "",
+      "vietnamese": "mùi vị, hương vị"
+    },
+    {
+      "id": "hsk2-l10-w10",
+      "hanzi": "不用",
+      "pinyin": "búyòng",
+      "sinoVietnamese": "",
+      "vietnamese": "không cần"
+    },
+    {
+      "id": "hsk2-l10-w11",
+      "hanzi": "正在",
+      "pinyin": "zhèngzài",
+      "sinoVietnamese": "",
+      "vietnamese": "đang (ngay lúc này)"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l10-g01",
+      "title": "Biểu thị hành động đang diễn ra: 正在 / 在 + Động từ",
+      "htmlContent": "<h3>1. 正在 / 在 + Động từ</h3><p>Dùng để diễn tả hành động đang tiếp diễn.</p><p><strong>在 (zài):</strong> Nhấn mạnh trạng thái hành động.</p><p><strong>正在 (zhèngzài):</strong> Nhấn mạnh thời điểm (chính lúc này).</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我在吃饭呢。 — Tôi đang ăn cơm.<br/>- 我们正在上课。 — Chúng tôi đang trong tiết học.</div>"
+    },
+    {
+      "id": "hsk2-l10-g02",
+      "title": "Khuyên ngăn hoặc cấm đoán: 不要 / 别 + Động từ + (了)",
+      "htmlContent": "<h3>2. 不要 / 别 + Động từ + (了)</h3><p>Dùng để khuyên hoặc yêu cầu ai đó đừng làm việc gì. (Nếu dùng 不用 + V thì mang nghĩa là \"không cần làm gì\", sắc thái nhẹ hơn).</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 别哭了。 — Đừng khóc nữa.<br/>- 不要说话了。 — Đừng nói chuyện nữa.<br/>- 不用去。 — Không cần đi đâu.</div>"
+    },
+    {
+      "id": "hsk2-l10-g03",
+      "title": "Đánh giá sự ảnh hưởng: A 对 B + 好 / 不好",
+      "htmlContent": "<h3>3. A 对 B + 好 / 不好</h3><p>Dùng để nhận xét sự vật/sự việc A đối với B thì tốt hoặc không tốt (thường dùng nói về sức khỏe, thói quen).</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 吃水果对身体好。 — Ăn trái cây tốt cho cơ thể.<br/>- 看手机太多对眼睛不好。 — Xem điện thoại quá nhiều không tốt cho mắt.</div>"
+    }
+  ]
+}

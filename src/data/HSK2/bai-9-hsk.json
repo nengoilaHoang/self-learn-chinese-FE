@@ -1,0 +1,137 @@
+{
+  "id": "l24",
+  "entryId": "hsk-2/09-bai-9-hsk2",
+  "slug": "bai-9-hsk2",
+  "order": 9,
+  "title": "Bài 9 HSK2",
+  "course": {
+    "id": "c2",
+    "slug": "hsk-2",
+    "name": "HSK 2",
+    "declaredLessonCount": 15
+  },
+  "words": [
+    {
+      "id": "hsk2-l9-w01",
+      "hanzi": "完",
+      "pinyin": "wán",
+      "sinoVietnamese": "",
+      "vietnamese": "xong, hoàn thành"
+    },
+    {
+      "id": "hsk2-l9-w02",
+      "hanzi": "错",
+      "pinyin": "cuò",
+      "sinoVietnamese": "",
+      "vietnamese": "sai"
+    },
+    {
+      "id": "hsk2-l9-w03",
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "sinoVietnamese": "",
+      "vietnamese": "vấn đề, câu hỏi"
+    },
+    {
+      "id": "hsk2-l9-w04",
+      "hanzi": "页",
+      "pinyin": "yè",
+      "sinoVietnamese": "",
+      "vietnamese": "trang"
+    },
+    {
+      "id": "hsk2-l9-w05",
+      "hanzi": "懂",
+      "pinyin": "dǒng",
+      "sinoVietnamese": "",
+      "vietnamese": "hiểu"
+    },
+    {
+      "id": "hsk2-l9-w06",
+      "hanzi": "跳舞",
+      "pinyin": "tiàowǔ",
+      "sinoVietnamese": "",
+      "vietnamese": "khiêu vũ, nhảy múa"
+    },
+    {
+      "id": "hsk2-l9-w07",
+      "hanzi": "次",
+      "pinyin": "cì",
+      "sinoVietnamese": "",
+      "vietnamese": "lần"
+    },
+    {
+      "id": "hsk2-l9-w08",
+      "hanzi": "希望",
+      "pinyin": "xīwàng",
+      "sinoVietnamese": "",
+      "vietnamese": "hy vọng"
+    },
+    {
+      "id": "hsk2-l9-w09",
+      "hanzi": "欢迎",
+      "pinyin": "huānyíng",
+      "sinoVietnamese": "",
+      "vietnamese": "hoan nghênh, chào đón"
+    },
+    {
+      "id": "hsk2-l9-w10",
+      "hanzi": "加班",
+      "pinyin": "jiābān",
+      "sinoVietnamese": "",
+      "vietnamese": "tăng ca"
+    },
+    {
+      "id": "hsk2-l9-w11",
+      "hanzi": "加油",
+      "pinyin": "jiāyóu",
+      "sinoVietnamese": "",
+      "vietnamese": "cố lên"
+    },
+    {
+      "id": "hsk2-l9-w12",
+      "hanzi": "才",
+      "pinyin": "cái",
+      "sinoVietnamese": "",
+      "vietnamese": "mới"
+    },
+    {
+      "id": "hsk2-l9-w13",
+      "hanzi": "这样",
+      "pinyin": "zhèyàng",
+      "sinoVietnamese": "",
+      "vietnamese": "như vậy, thế này"
+    },
+    {
+      "id": "hsk2-l9-w14",
+      "hanzi": "重",
+      "pinyin": "zhòng",
+      "sinoVietnamese": "",
+      "vietnamese": "nặng"
+    },
+    {
+      "id": "hsk2-l9-w15",
+      "hanzi": "从",
+      "pinyin": "cóng",
+      "sinoVietnamese": "",
+      "vietnamese": "từ"
+    }
+  ],
+  "grammars": [
+    {
+      "id": "hsk2-l9-g01",
+      "title": "Phủ định của Bổ ngữ kết quả: 没(有) + Động từ + Bổ ngữ kết quả",
+      "htmlContent": "<h3>1. 没(有) + Động từ + Bổ ngữ kết quả (完 / 懂 / 错...)</h3><p>Dùng để diễn tả một hành động chưa đạt được kết quả nào đó trong quá khứ.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 我没看懂。 — Tôi chưa xem hiểu (Tôi xem mà không hiểu).<br/>- 我没做完。 — Tôi chưa làm xong.</div>"
+    },
+    {
+      "id": "hsk2-l9-g02",
+      "title": "Số thứ tự: 第 + Số đếm + Lượng từ + Danh từ",
+      "htmlContent": "<h3>2. 第 + Số đếm + Lượng từ + Danh từ</h3><p>Dùng để liệt kê hoặc đếm thứ tự sự vật, sự việc.</p><div class=\"example\"><strong>Ví dụ:</strong><br/>- 第一个问题 — Vấn đề thứ nhất / Câu hỏi đầu tiên.<br/>- 第一次 — Lần thứ nhất.</div>"
+    },
+    {
+      "id": "hsk2-l9-g03",
+      "title": "Phân biệt Bộ Bối (贝) và Bộ Kiến (见)",
+      "htmlContent": "<h3>3. Phân biệt Bộ Bối và Bộ Kiến</h3><p><strong>Bộ Bối (贝 - bèi):</strong> Hình ảnh vỏ sò, thường liên quan đến tiền bạc, tài sản, giá trị. (VD: 贵 - đắt).</p><p><strong>Bộ Kiến (见 - jiàn):</strong> Nhìn, thấy, liên quan đến thị giác. (VD: 觉 - cảm giác).</p><div class=\"example\"><strong>Mẹo nhớ:</strong> Hai bộ này viết rất giống nhau, nhưng bộ Bối (贝) có thêm hai nét gạch ngang nhỏ bên trong so với bộ Kiến (见).</div>"
+    }
+  ]
+}
